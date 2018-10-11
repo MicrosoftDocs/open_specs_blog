@@ -1,2 +1,10 @@
-- name: Index
-  href: index.md
+- name: 2018
+  items:
+  - name: May 2018
+    items:
+    - name: "Coming this June: Redmond Interoperability Plugfest!"
+      href: 02_coming_this_june_interop_plugfest.md
+  - name: Feb 2018
+    items:
+    - name: "Announcing the Microsoft 365 DevDays Agenda!"
+      href: 2018_02\02_devdays_agenda.md
