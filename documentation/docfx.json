@@ -41,7 +41,8 @@
       "ms.prod": "openspecs-office",
       "topic": "conceptual",
       "contributors_to_exclude": ["mrsgit09","skesseks","jmazzotta","andrewdavidoff","Incyuna2z","enoch717","donnyluu"],
-      "ms.topic": "conceptual"
+      "ms.topic": "conceptual",
+      "feedback_system": "GitHub"
     },
     "fileMetadata": {},
     "template": [],
