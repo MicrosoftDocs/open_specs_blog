@@ -16,13 +16,13 @@ Microsoft 365 DevDays 议程 [现已发布](https://interopevents.com/beijing201
 - WW 与波兹曼比较
 - 企业中的高级移动性与安全性
  
-Microsoft 合作伙伴将有机会展示应用程序解决方案。如果您有兴趣参加这个展示, 请在报名表格上注明，或者通过邮件联系我们 [microsoftdevdays@microsoft.com](microsoftdevdays@microsoft.com)。
+Microsoft 合作伙伴将有机会展示应用程序解决方案。如果您有兴趣参加这个展示, 请在报名表格上注明，或者通过邮件联系我们 [microsoftdevdays@microsoft.com](mailto:microsoftdevdays@microsoft.com)。
 这绝对是一个您不愿错过的活动！
 
 [![Register](../images/RegisterButton_Chinese.png)](https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x3231008abcd)
 
 [注册现已开放](https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x3231008abcd) ，您可以在[这里](http://www.interopevents.com/beijing2018)找到所有的议程细节。
 
-有任何问题请与我们联系[microsoftdevdays@microsoft.com](microsoftdevdays@microsoft.com)。
+有任何问题请与我们联系[microsoftdevdays@microsoft.com](mailto:microsoftdevdays@microsoft.com)。
 
 *请注意：本次活动的大部分会议将以中文形式进行。

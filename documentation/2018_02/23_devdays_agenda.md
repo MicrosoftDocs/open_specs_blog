@@ -15,7 +15,7 @@ Here are just some exciting topics that we’ll be bringing to the event:
 - WW and Gallatin Comparison
 - Advanced Mobility & Security in Enterprise
 
-There will be an opportunity for Microsoft partners to showcase application solutions. If you are interested in participating in this showcase, please indicate on the registration form or by reaching out [microsoftdevdays@microsoft.com](microsoftdevdays@microsoft.com).
+There will be an opportunity for Microsoft partners to showcase application solutions. If you are interested in participating in this showcase, please indicate on the registration form or by reaching out [microsoftdevdays@microsoft.com](mailto:microsoftdevdays@microsoft.com).
 
 This is an event you won’t want to miss!
 
@@ -23,7 +23,7 @@ This is an event you won’t want to miss!
 
 Registration is now open and you can find all agenda details here.
 
-Contact us with any questions at [microsoftdevdays@microsoft.com](microsoftdevdays@microsoft.com).
+Contact us with any questions at [microsoftdevdays@microsoft.com](mailto:microsoftdevdays@microsoft.com).
 
 > [!Note]
 > Please note that most sessions during this event will be conducted in Chinese. 

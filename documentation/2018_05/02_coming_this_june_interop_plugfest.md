@@ -31,4 +31,4 @@ Protocol testing taking place throughout this five-day event. You can use this o
  
 You can find all event details at www.interopevents.com/redmond2018
 
-Contact us with any questions at [plugfests@microsoft.com](plugfests@microsoft.com)
+Contact us with any questions at [plugfests@microsoft.com](mailto:plugfests@microsoft.com)
