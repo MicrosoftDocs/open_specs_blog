@@ -1,0 +1,1 @@
+# Welcome to open_specs_blog!
