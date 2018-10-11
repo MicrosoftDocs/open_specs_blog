@@ -1,7 +1,7 @@
 ---
 author: mrsgit09
 ms.author: v-sarobi
-date: 05/02/2018
+ms.date: "05/02/2018"
 ---
 # Coming this June: Redmond Interoperability Plugfest!
 
@@ -25,9 +25,10 @@ Here are a few exciting topics you can look forward to:
 - Introduction to Azure Machine Learning
 - Linux Client CIFS SMB Direct
 - And many more!
-Protocol testing taking place throughout this five-day event. You can use this opportunity to test your protocol implementations. If you are interested in testing, please indicate it on the registration form. Our team will reach out to accommodate any equipment shipping needs.
+Protocol testing taking place throughout this five-day event. You can use this opportunity to test your protocol implementations. If you are interested in testing, please indicate it on the [registration form](https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x3507287abcd). Our team will reach out to accommodate any equipment shipping needs.
 
 [![Register](../images/RegisterButton.png)](https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x3507287abcd)
  
 You can find all event details at www.interopevents.com/redmond2018
-Contact us with any questions at plugfests@microsoft.com
+
+Contact us with any questions at [plugfests@microsoft.com](plugfests@microsoft.com)

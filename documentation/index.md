@@ -1,1 +1,2 @@
-# Welcome to open_specs_blog!
+# Welcome to Open Specifications Blog!
+Here you can learn about upcoming events and ....
