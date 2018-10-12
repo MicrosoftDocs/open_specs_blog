@@ -43,8 +43,7 @@
       "contributors_to_exclude": ["mrsgit09","skesseks","jmazzotta","andrewdavidoff","Incyuna2z","enoch717","donnyluu"],
       "ms.topic": "conceptual",
       "feedback_system": "GitHub",
-      "feedback_github_repo": "MicrosoftDocs/open_specs_blog",
-      "feedback_product_url": "https://docs.microsoft.com/en-us/openspecs/" 
+      "feedback_github_repo": "MicrosoftDocs/open_specs_blog" 
     },
     "fileMetadata": {},
     "template": [],
