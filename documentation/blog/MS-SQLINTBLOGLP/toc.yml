@@ -1,0 +1,16 @@
+- name: "SQL Server Protocol Content Previews and Errata"
+  href: 4fac6802-34cf-4f7a-ab52-cb34d48913b3.md
+  items:
+  - name: "2018"
+    href: a7511e7f-928d-40fd-adf1-3a4d66e10e09.md
+    items:
+    - name: "July 2018"
+      href: 77f5d094-8d76-414a-bc18-df40f0782fb0.md
+      items:
+      - name: "07/02: Errata added for [MS-TDS]: Tabular Data Stream Protocol"
+        href: 8463acc3-f073-40c7-9edc-4c1fb914b5af.md
+    - name: "June 2018"
+      href: eb65cd05-0584-4315-b960-495b86b143d7.md
+      items:
+      - name: "06/18: Errata added for [MS-TDS]: Tabular Data Stream Protocol"
+        href: cde755c3-c73d-4edf-88f0-aae9114e093f.md

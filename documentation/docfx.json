@@ -35,9 +35,16 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "breadcrumb_path": "/open_specs_blog/breadcrumb/toc.json",
-      "extendBreadcrumb": true,
-      "feedback_system": "None"
+      "ROBOTS": "NOINDEX, NOFOLLOW",
+      "searchScope": ["OpenSpecs"],
+      "uhfHeaderId": "MSDocsHeader-OpenSpecs",
+      "ms.prod": "openspecs-office",
+      "topic": "conceptual",
+      "contributors_to_exclude": ["mrsgit09","skesseks","jmazzotta","andrewdavidoff","Incyuna2z","enoch717","donnyluu"],
+      "ms.topic": "conceptual",
+      "feedback_system": "GitHub",
+      "feedback_github_repo": "MicrosoftDocs/open_specs_blog",
+      "protocol_rendering": true
     },
     "fileMetadata": {},
     "template": [],

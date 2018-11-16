@@ -1,0 +1,22 @@
+- name: "Windows Protocol Content Previews and Errata"
+  href: 68ab5fe5-08a1-4426-af41-9a20380624a6.md
+  items:
+  - name: "2018"
+    href: b63a48de-091f-488a-86a6-b9417f239438.md
+    items:
+    - name: "September 2018"
+      href: 10b0ac67-ac9f-453b-875f-111d0214802f.md
+      items:
+      - name: "09/17 – Errata added for [MS-SMB2]: Server Message Block (SMB) Protocol Versions 2 and 3"
+        href: 0a7b1c59-dc5a-4cb9-a783-7b58fb53aaa4.md
+      - name: "09/12 – Errata archived for Windows v1809/Windows Server 2019 Release"
+        href: 3b874ab2-3c7c-4df4-87ee-b406ea4a7523.md
+    - name: "July 2018"
+      href: dbe20915-1e1a-49a8-8a3f-a95ed187f18f.md
+      items:
+      - name: "07/16 – Errata added for [MS-RRP]: Windows Remote Registry Protocol"
+        href: 2fc4b30b-2771-4e15-ae46-9d3eb980fed5.md
+      - name: "07/16 – Errata added for [MS-MDE2]: Mobile Device Enrollment Protocol Version 2"
+        href: b5681de7-5342-48f2-b12f-3d16dffa147e.md
+      - name: "07/16 Document Release"
+        href: 64c8dea7-5419-4518-b71a-809f0d1feff3.md
