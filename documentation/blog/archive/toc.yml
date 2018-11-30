@@ -107,7 +107,7 @@
     - name: "Incremental Change Synchronization"
       href: "IncrementalChangeSynchronization.md"
     - name: "MS-OXOCAL - How to calculate the FirstDateTime for monthly and yearly recurring appointments for the Hebrew calendar."
-      href: "MS-OXOCAL-HowtocalculatetheFirstDateTimeformonthlyandyearlyrecurringappointmentsfortheHebrewcalendar.md"
+      href: "MS-OXOCAL-HowtocalculatetheFirstDateTime.md"
     - name: "MS-PST - How to decode data pages using Permutative Decoding."
       href: "MS-PST-HowtodecodedatapagesusingPermutativeDecoding.md"
     - name: "MS-PST - Parsing a Heap-on-Node Property Context Block"
