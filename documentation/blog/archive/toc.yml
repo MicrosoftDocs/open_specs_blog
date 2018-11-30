@@ -48,7 +48,7 @@
       href: "ClientcachingfeaturesOplockvs.Lease.md"
     - name: "Decrypting SSTP traffic with Netmon and NMDecrypt"
       href: "DecryptingSSTPtrafficwithNetmonandNMDecrypt.md"
-    - name: "Common mistakes when reading TS\_ICON\_INFO in \[MS-RDPERP\]"
+    - name: "Common mistakes when reading TS_ICON_INFO in [MS-RDPERP]"
       href: "CommonmistakeswhenreadingTS_ICON_INFOin[MS-RDPERP].md"
     - name: "Details of three TIFF Tag extensions that Microsoft Office Document Imaging (MODI) software may write into the TIFF files it generates"
       href: "DetailsofthreeTIFFTagextensionsthatMicrosoftOfficeDocumentImaging(MODI)softwaremaywriteintotheTIFFfilesitgenerates.md"
