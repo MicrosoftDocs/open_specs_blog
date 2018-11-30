@@ -138,7 +138,7 @@ Once Netmon is open, NMDecrypt is run by following these steps:
             1.  Select an HTTP
                 frame:  
                   
-                [![](images/sstpdecrypt1/3386.step7a.jpg)
+                [![](images/sstpdecrypt1/3386step7a.jpg)
             2.  On the Frame Details section select the HTTPPayloadLine
                 property:  
                   

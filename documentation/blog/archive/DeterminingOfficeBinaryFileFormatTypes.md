@@ -50,7 +50,7 @@ Sector. For my example file I use the following math to find it. **(0x2B
 + 0x01) \* 0x200 (512 bytes) =
 0x5800**.
 
-![](images/5270.Untitled%20picture1.png)  
+![](images/5270.Untitledpicture1.png)  
 <span style="font-size: x-small;">Figure 1: The CFB Header</span>
 
   
@@ -71,7 +71,7 @@ of the Summary Information sector using the same type of calculation. In
 my test file it looks like this.  **(0x1A + 0x01) \* 0x200 (512 bytes) =
 0x3600**.
 
-[![](images/3681.Untitled%20picture.png)  
+[![](images/3681.Untitledpicture.png)  
 <span style="font-size: x-small;">Figure 2: The First Directory
 Sector</span>
 
@@ -130,7 +130,7 @@ padding. For .ppt files the Size should be **0x1C** (28 bytes) and the
 Characters value should be **"Microsoft Office PowerPoint" +
 0x00**.*
 
-[![](images/0456.Untitled%20picture.png)  
+[![](images/0456.Untitledpicture.png)  
 <span style="font-size: x-small;">Figure 3: The Summary Information
 Sector</span>
 
