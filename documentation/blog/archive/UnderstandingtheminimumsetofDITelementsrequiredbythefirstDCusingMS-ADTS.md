@@ -122,7 +122,7 @@ also help administrators
 understand the impact of changing objects or attributes in Active
 Directory.
 
-[Windows2008R2\_Minimum\_DIT.zip](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Components.PostAttachments/00/09/98/14/23/Windows2008R2_Minimum_DIT.zip)
+[Windows2008R2\_Minimum\_DIT.zip](images/Windows2008R2_Minimum_DIT.zip)
 
 </div>
 

@@ -94,7 +94,7 @@ Exchange Phase of the RDP connection sequence.  The sample packet is
 shown as below.       
                                                  </span></span>
 
-<span style="font-family: Calibri; font-size: small;" data-face="Calibri" size="3">              [![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/8132.RDP-1.JPG)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/8132.RDP-1.JPG)
+<span style="font-family: Calibri; font-size: small;" data-face="Calibri" size="3">              [![](images/8132.RDP-1.JPG)
 </span>
 
 <span style="font-size: small;" size="3"><span style="font-family: Calibri;" data-face="Calibri">                
@@ -110,7 +110,7 @@ server then responds with Encryption Level and Encryption Method to be
 used.  </span></span>
 
                             
-[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/5078.RDP-2.JPG)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/5078.RDP-2.JPG) 
+[![](images/5078.RDP-2.JPG) 
 
 <span style="font-size: small;" size="3"><span style="font-family: Calibri;" data-face="Calibri"> 
  In this case, the Encryption Level configured on the server is Low ,

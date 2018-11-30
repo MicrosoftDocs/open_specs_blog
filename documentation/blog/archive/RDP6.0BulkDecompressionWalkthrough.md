@@ -110,7 +110,7 @@ decoded.</span></span>
 
  
 
-<span style="font-size: x-small;">![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/3858.flowchart.jpg)</span>
+<span style="font-size: x-small;">![](images/3858.flowchart.jpg)</span>
 
 **<span style="font-family: Verdana;"><span style="font-size: x-small;">                                                                                                                               Decoding
 a compressed

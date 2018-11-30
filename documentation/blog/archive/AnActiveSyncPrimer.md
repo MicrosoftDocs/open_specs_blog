@@ -165,4 +165,4 @@ to this entry. Stay-tuned for more articles getting more in-depth to the
 intricate details surrounding
 ActiveSync\!
 
-[ActiveSync\_Primer.pdf](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Components.PostAttachments/00/09/89/68/83/ActiveSync_Primer.pdf)
+[ActiveSync\_Primer.pdf](images/ActiveSync_Primer.pdf)

@@ -746,4 +746,4 @@ formidable to traverse. 
 
  
 
-[defrag.cpp](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Components.PostAttachments/00/09/89/96/21/defrag.cpp)
+[defrag.cpp](images/defrag.cpp)

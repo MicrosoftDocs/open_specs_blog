@@ -175,7 +175,7 @@ subsequent 20 bytes are the decrypted EncryptedVerifierHash.
 Hope this
 helps\!
 
-[Files.zip](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Components.PostAttachments/00/09/59/78/65/Files.zip)
+[Files.zip](images/Files.zip)
 
 </div>
 

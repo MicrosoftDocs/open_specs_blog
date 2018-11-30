@@ -307,7 +307,7 @@ depth. The next blog will walk through initialization and
 synchronization of a simple session.
 
 [More
-ActiveSync.pdf](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Components.PostAttachments/00/09/90/27/62/More%20ActiveSync.pdf)
+ActiveSync.pdf](images/More%20ActiveSync.pdf)
 
 </div>
 

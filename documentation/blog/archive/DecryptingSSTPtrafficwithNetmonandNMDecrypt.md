@@ -79,7 +79,7 @@ conversation once opened in Netmon and then running the expert.
 This is an example of what you should
 see:
 
-[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/sstpdecrypt1/8371.conversation.jpg)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/sstpdecrypt1/8371.conversation.jpg)
+[![](images/sstpdecrypt1/8371.conversation.jpg)
 
 **<span style="text-decoration: underline;">How to make magic
 happen?</span>**
@@ -89,12 +89,12 @@ Once Netmon is open, NMDecrypt is run by following these steps:
 1.  Click on the Experts
     menu:  
       
-    [![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/sstpdecrypt1/0028.step1.jpg)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/sstpdecrypt1/0028.step1.jpg)  
+    [![](images/sstpdecrypt1/0028.step1.jpg)  
       
 2.  Select the correct expert (NMDecrypt) and then select “Run
     Expert”:  
       
-    [![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/sstpdecrypt1/1512.step2.jpg)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/sstpdecrypt1/1512.step2.jpg)  
+    [![](images/sstpdecrypt1/1512.step2.jpg)  
       
 3.  Complete the requested information:
     1.  The path to the encrypted capture
@@ -105,7 +105,7 @@ Once Netmon is open, NMDecrypt is run by following these steps:
     5.  The path to the log
         file  
           
-        [![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/sstpdecrypt1/4667.step3.jpg)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/sstpdecrypt1/4667.step3.jpg)  
+        [![](images/sstpdecrypt1/4667.step3.jpg)  
           
     6.  Once the fields are completed, press Start.  
           
@@ -121,11 +121,11 @@ Once Netmon is open, NMDecrypt is run by following these steps:
           
         1.  Before:  
               
-            [![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/sstpdecrypt1/1172.step6before.jpg)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/sstpdecrypt1/1172.step6before.jpg)  
+            [![](images/sstpdecrypt1/1172.step6before.jpg)  
               
         2.  After:  
               
-            [![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/sstpdecrypt1/5488.step6after.jpg)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/sstpdecrypt1/5488.step6after.jpg)  
+            [![](images/sstpdecrypt1/5488.step6after.jpg)  
               
             As you may already have noticed, the SSL Application Data is
             mostly broken down. However, most SSTP messages may not be
@@ -138,32 +138,32 @@ Once Netmon is open, NMDecrypt is run by following these steps:
             1.  Select an HTTP
                 frame:  
                   
-                [![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/sstpdecrypt1/3386.step7a.jpg)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/sstpdecrypt1/3386.step7a.jpg)
+                [![](images/sstpdecrypt1/3386.step7a.jpg)
             2.  On the Frame Details section select the HTTPPayloadLine
                 property:  
                   
                   
-                [![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/sstpdecrypt1/8055.step7b.jpg)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/sstpdecrypt1/8055.step7b.jpg)
+                [![](images/sstpdecrypt1/8055.step7b.jpg)
             3.  On the Hex Details section, the raw data corresponding
                 to that property will be
                 highlighted:  
                   
-                [![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/sstpdecrypt1/7043.step7c.jpg)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/sstpdecrypt1/7043.step7c.jpg)  
+                [![](images/sstpdecrypt1/7043.step7c.jpg)  
                   
             4.  Click on the Decode As button (right above the raw
                 data):  
                   
-                [![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/sstpdecrypt1/1754.step7d.jpg)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/sstpdecrypt1/1754.step7d.jpg)
+                [![](images/sstpdecrypt1/1754.step7d.jpg)
             5.  The Decode As window will pop up, select SSTP under the
                 Protocols
                 branch:  
                   
-                [![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/sstpdecrypt1/6433.step7e.jpg)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/sstpdecrypt1/6433.step7e.jpg)
+                [![](images/sstpdecrypt1/6433.step7e.jpg)
             6.  Click OK and a new Decoded Frame window with the decoded
                 frame will pop
                 up:  
                   
-                [![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/sstpdecrypt1/1323.step7f.jpg)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/sstpdecrypt1/1323.step7f.jpg)
+                [![](images/sstpdecrypt1/1323.step7f.jpg)
 
 I hope that you find this information useful.
 

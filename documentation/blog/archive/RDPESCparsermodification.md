@@ -43,7 +43,7 @@ simple Blob.
 This is pretty much what it looked
 like:
 
-[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/2816.rdpescPic1.png)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/2816.rdpescPic1.png)
+[![](images/2816.rdpescPic1.png)
 
  
 
@@ -68,7 +68,7 @@ This is what the same frame looked like with the plain
 vanilla new
 parsers:
 
-[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/8037.rdpescPic2.png)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/8037.rdpescPic2.png)
+[![](images/8037.rdpescPic2.png)
 
 As we can see, this is day and night compared with not  
 having anything parsed below TLS.
@@ -80,7 +80,7 @@ This is what other RDPESC packets look like (other control
 codes that
 is):
 
-[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/1538.rdpescPic3.png)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/1538.rdpescPic3.png)
+[![](images/1538.rdpescPic3.png)
 
 **** 
 
@@ -114,7 +114,7 @@ the
 first thing we can see is
 this:
 
-[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/7633.rdpescPic4.png)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/7633.rdpescPic4.png)
+[![](images/7633.rdpescPic4.png)
 
 At first sight, having a “switch” clause is a good sign. It  
 wouldn’t be the first time someone misses a case in a switch clause…
@@ -130,13 +130,13 @@ scenarios it is that we are dealing with.
 I present you with the control code for
 SCARD\_IOCTL\_ACCESSSTARTEDEVENT:
 
-[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/6675.rdpescPic5.png)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/6675.rdpescPic5.png)
+[![](images/6675.rdpescPic5.png)
 
 Once the control code has been identified, we can then see  
 that 0x900E0 is a special case on the RDPESC parser
 world:
 
-[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/7853.rdpescPic6.png)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/7853.rdpescPic6.png)
+[![](images/7853.rdpescPic6.png)
 
  
 
@@ -301,7 +301,7 @@ should now
 look like
 this:
 
-[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/7651.rdpescPic7.png)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/7651.rdpescPic7.png)
+[![](images/7651.rdpescPic7.png)
 
  
 

@@ -53,7 +53,7 @@ checkbox is check, then ***UNCHECK*** it
 \-          Then commit the change clicking
 ***OK***
 
-[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/0576.Pic1.jpg)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/0576.Pic1.jpg)[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/0574.Pic2.jpg)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/0574.Pic2.jpg)
+[![](images/0574.Pic2.jpg)
 
 (In this example, ***LAB\\nonsensi*** is set to be delegated and
 ***LAB\\sensi*** is set NOT to be delegated)
@@ -63,9 +63,9 @@ When the checkbox is unchecked, the FORWARDABLE flag
 in the
 TGS-REQ.
 
-[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/7624.Pic3.jpg)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/7624.Pic3.jpg)
+[![](images/7624.Pic3.jpg)
 
-[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/4213.Pic4.jpg)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/4213.Pic4.jpg)
+[![](images/4213.Pic4.jpg)
 
 The TGS-REP will provide the ticket with the FORWARDABLE flag only if
 the rest of the settings are correct. If not, the ticket will not have
@@ -85,8 +85,8 @@ locate the ***computer account*** of the middle tier system and open its
 
 \-          Then select the following
 options:  
-[](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/0576.Pic6.jpg)[](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/7343.Pic5.jpg)  
-[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/3683.Pic5.jpg)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/3683.Pic5.jpg)[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/1803.Pic6.jpg)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/1803.Pic6.jpg)  
+[](images/7343.Pic5.jpg)  
+[![](images/1803.Pic6.jpg)  
   
 The left side shows the settings for delegation without Protocol
 Transition, the right side shows the settings for delegation with
@@ -103,7 +103,7 @@ Protocol Transition.
         double click on it
       - It should look similar to
         this:  
-        [![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/7725.Pic7.jpg)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/7725.Pic7.jpg)
+        [![](images/7725.Pic7.jpg)
 
 \-          If you are running the service or application pool with a
 user account then locate the ***user account*** of the middle tier
@@ -132,14 +132,14 @@ system and open its ***properties***
         the example below is
         **server3.lab.local  
           
-        [![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/1651.Pic8.jpg)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/1651.Pic8.jpg)  
+        [![](images/1651.Pic8.jpg)  
           
         **
   - Once the SPNs are created, the delegation tab will show up on the
     user
     account:  
       
-    [![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/8117.Pic9.jpg)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/8117.Pic9.jpg)  
+    [![](images/8117.Pic9.jpg)  
       
   - If the tab is still not showing, verify the SPNs creating with
     **ADSIEDIT.MSC**
@@ -152,7 +152,7 @@ system and open its ***properties***
         click on it
       - It should look similar to
         this:  
-        [![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/2867.Pic10.jpg)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/2867.Pic10.jpg)  
+        [![](images/2867.Pic10.jpg)  
           
         If it doesn’t, then make sure to clean up the list and repeat
         the setspn process.
@@ -176,7 +176,7 @@ permissions on **picture2.jpg**
 When accessing the webpage from a client computer using Internet
 Explorer, this is what he
 sees:  
-[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/5657.Pic11.jpg)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/5657.Pic11.jpg)
+[![](images/5657.Pic11.jpg)
 
 As we can see, the page has been served and the picture to which only
 **sensi** has permissions has not been displayed.
@@ -184,12 +184,12 @@ As we can see, the page has been served and the picture to which only
 We can see that the user credentials were used to access the backend
 server:
 
-[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/6787.Pic12.jpg)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/6787.Pic12.jpg)
+[![](images/6787.Pic12.jpg)
 
 And this was done because the ticket with nonsensi’s credentials was
 forwardable:
 
- [![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/5444.Pic13.jpg)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/5444.Pic13.jpg)
+ [![](images/5444.Pic13.jpg)
 
 I truly hope that you find this article useful when working on
 implementing and testing your implementation with Windows.

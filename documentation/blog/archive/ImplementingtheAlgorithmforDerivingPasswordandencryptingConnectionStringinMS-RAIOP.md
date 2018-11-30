@@ -812,7 +812,7 @@ solutions with the Windows platform. 
 
 </div>
 
-[testRAIOP.cpp](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Components.PostAttachments/00/10/16/44/46/testRAIOP.cpp)
+[testRAIOP.cpp](images/testRAIOP.cpp)
 
 </div>
 

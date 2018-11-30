@@ -368,7 +368,7 @@ EPA.
 
  
 
-[ChannelBindingTraceDecrypted.cap](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Components.PostAttachments/00/10/40/55/58/ChannelBindingTraceDecrypted.cap)
+[ChannelBindingTraceDecrypted.cap](images/58/ChannelBindingTraceDecrypted.cap)
 
 </div>
 

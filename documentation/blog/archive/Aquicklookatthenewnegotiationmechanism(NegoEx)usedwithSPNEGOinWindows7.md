@@ -40,7 +40,7 @@ is the only such a SSP loaded by default.  The following diagram can
 show the relationship between all the SSPs and
 SSPI.</span></span>
 
-[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/0755.NegoEx.JPG)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/0755.NegoEx.JPG)
+[![](images/0755.NegoEx.JPG)
 
 **<span style="font-size: small;" size="3"><span style="font-family: Calibri;" data-face="Calibri">What
 is PKU2U ? 

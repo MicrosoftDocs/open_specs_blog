@@ -1245,4 +1245,4 @@ Settings](http://msdn.microsoft.com/en-us/library/dd240499\(PROT.10\).aspx)
  
 
 [Access Mask
-Blog.zip](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Components.PostAttachments/00/09/98/88/74/Access%20Mask%20Blog.zip)
+Blog.zip](images/Access%20Mask%20Blog.zip)

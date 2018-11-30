@@ -112,7 +112,7 @@ Unicode PST file, we can find the IB at offset
 
  
 
-![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/2766.F1.png)
+![](images/2766.F1.png)
 
  
 
@@ -139,7 +139,7 @@ different.
 
  
 
-![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/5707.F2.png)
+![](images/5707.F2.png)
 
  
 
@@ -166,7 +166,7 @@ array...
 
  
 
-![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/7343.F3.png)
+![](images/7343.F3.png)
 
  
 
@@ -192,7 +192,7 @@ entries.
 
  
 
-![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/0714.F4.png)
+![](images/0714.F4.png)
 
  
 
@@ -216,7 +216,7 @@ this:
 
  
 
-![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/4846.F5.png)
+![](images/4846.F5.png)
 
  
 
@@ -233,7 +233,7 @@ Lets look at the first NBTPage that the Root page points to at offset
 
  
 
-![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/8015.F6.png)
+![](images/8015.F6.png)
 
  
 
@@ -260,7 +260,7 @@ NBTENTRY…
 
  
 
-![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/6242.F7.png) 
+![](images/6242.F7.png) 
 
 Figure 7: A sample NBTENTRY.
 

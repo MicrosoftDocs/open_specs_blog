@@ -31,9 +31,9 @@ pictures, as these files are not resolution dependent. Thus, enlarging a
 photo will not result in the loss of any
 quality.
 
-[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/0310.vector.png)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/0310.vector.png)
+[![](images/0310.vector.png)
 
-[](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/0310.vector.png)
+[](images/0310.vector.png)
 
 **<span style="font-size: xx-small;">\[Image courtesy of
 Wikipedia\]</span>**
@@ -53,7 +53,7 @@ contained in between these two are a record whose type is determined by
 the ***RecordType*** enumeration in the record
 itself.
 
-[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/2766.emf_file_structure.png)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/2766.emf_file_structure.png)
+[![](images/2766.emf_file_structure.png)
 
 Generally, all records start with a type and a size, indicating the type
 of record we are dealing with, and the size in bytes of the current

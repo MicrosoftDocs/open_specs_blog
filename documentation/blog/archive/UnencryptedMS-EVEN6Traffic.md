@@ -33,7 +33,7 @@ value of each remote procedure call. Refer below screenshot highlighting
 authentication-level
 field.
 
- [![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/0741.First.png)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/0741.First.png)
+ [![](images/0741.First.png)
 
   
  **What does MS-EVEN6 specification say about authentication-level?**
@@ -149,28 +149,28 @@ error\_status\_t error = EvtRpcOpenLogHandle(L"Application", 1,
 Bind Request Packet with authentication-level as
 RPC\_C\_AUTHN\_LEVEL\_PKT\_INTEGRITY:
 
- [![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/3513.Second.png)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/3513.Second.png)
+ [![](images/3513.Second.png)
 
   
    
  Bind Response Packet with authentication-level as
 RPC\_C\_AUTHN\_LEVEL\_PKT\_INTEGRITY:
 
- [![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/1030.Third.png)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/1030.Third.png)
+ [![](images/1030.Third.png)
 
   
    
  Unencrypted EvtRpcOpenLogHandle request
 packet:
 
- [![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/7271.Fourth.jpg)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/7271.Fourth.jpg)
+ [![](images/7271.Fourth.jpg)
 
  
 
 Unencrypted EvtRpcOpenLogHandle response
 packet:
 
- [![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/5635.Fifth.png)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/5635.Fifth.png)
+ [![](images/5635.Fifth.png)
 
  
 

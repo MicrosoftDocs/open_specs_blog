@@ -162,7 +162,7 @@ Constrained Delegation Protocol
 Specification](http://msdn.microsoft.com/en-us/library/cc246071.aspx)
 
 [Control Access Rights
-Concordance.pdf](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Components.PostAttachments/00/09/87/55/35/Control%20Access%20Rights%20Concordance.pdf)
+Concordance.pdf](images/Control%20Access%20Rights%20Concordance.pdf)
 
 </div>
 

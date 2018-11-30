@@ -74,17 +74,17 @@ TLS\\DTLS PDUs enveloped within RDPEUDP header.
 it. 
 
   
- ![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/3223.image1.png)
+ ![](images/3223.image1.png)
 
  
 
-[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/5287.image2.png)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/5287.image2.png)
+[![](images/5287.image2.png)
 
  
 
  
 
-[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/7266.image3.png)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/7266.image3.png)
+[![](images/7266.image3.png)
 
  
 
@@ -96,7 +96,7 @@ Step3.
 
  
 
-[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/7888.image4.png)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/7888.image4.png)
+[![](images/7888.image4.png)
 
 5\. Likewise, we can decode remaining TLS session setup PDUs over UDP
 for further analysis.

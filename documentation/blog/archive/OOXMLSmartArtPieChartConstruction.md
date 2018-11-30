@@ -25,7 +25,7 @@ example.</span></span>
 
 <span style="mso-no-proof: yes;"></span>
 
-*<span style="font-size: small;"><span style="font-family: Calibri;">![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/0576.basicpie.png)The
+*<span style="font-size: small;"><span style="font-family: Calibri;">![](images/0576.basicpie.png)The
 graphic displayed above is an example of a basic pie chart with 3
 slices. All 3 slices shown are constructed via XML.</span></span>*
 
@@ -40,7 +40,7 @@ our purposes, we are going to use the degree measurement as this is the
 measurement used by the current
 standard.</span></span>
 
-<span style="mso-no-proof: yes;"></span><span style="font-size: small;"><span style="font-family: Calibri;">**<span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/8551.piewithmeasurements.png)Note:
+<span style="mso-no-proof: yes;"></span><span style="font-size: small;"><span style="font-family: Calibri;">**<span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">![](images/8551.piewithmeasurements.png)Note:
 0° and 360° refer to the same
 point.</span><span style="font-family: &#39;MS Shell Dlg 2&#39;,&#39;sans-serif&#39;;"></span>**</span></span>
 
@@ -64,7 +64,7 @@ slice that would appear in Word
 
 <span style="font-size: small;"><span style="font-family: Calibri;"></span></span>
 
-<span style="mso-no-proof: yes;">![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/7220.halfshadedcircle.png)![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/5141.halfcircle.png)</span>
+<span style="mso-no-proof: yes;">![](images/5141.halfcircle.png)</span>
 
 <span style="font-size: small;"><span style="font-family: Calibri;">These
 values are contained in groups of two called ***shape adjust values***.
@@ -92,7 +92,7 @@ extensions to the DrawingML OOXML File Format Structure, which is used
 in WordprocessingML, SpreadsheetML and PresentationML documents.</span>*
 
 [OOXML SmartArt Pie Chart
-Construction.pdf](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Components.PostAttachments/00/10/10/01/85/OOXML%20SmartArt%20Pie%20Chart%20Construction.pdf)
+Construction.pdf](images/OOXML%20SmartArt%20Pie%20Chart%20Construction.pdf)
 
 </div>
 

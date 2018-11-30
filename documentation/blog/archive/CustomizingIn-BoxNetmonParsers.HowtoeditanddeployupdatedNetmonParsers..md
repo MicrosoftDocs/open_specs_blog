@@ -72,7 +72,7 @@ This is easy to do with Netmon’s Go To Data Field Definition feature.
 Take the following
 frame:
 
-[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/8507.1.bmp)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/8507.1.bmp)
+[![](images/8507.1.bmp)
 
 If you right-click on any field, in our case  
 “DestinationAddress”, and select “Go To Data Field” from the drop down
@@ -99,7 +99,7 @@ this\[4\],
 this\[3\], this\[2\], this\[1\],
 this\[0\])”
 
-[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/6574.2.bmp)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/6574.2.bmp)
+[![](images/6574.2.bmp)
 
  
 
@@ -141,7 +141,7 @@ a custom (User) parser profile.  From
 Netmon’s main window, select Parser Profiles and then Parser Profile
 Options.
 
-[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/2335.3.bmp)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/2335.3.bmp)
+[![](images/2335.3.bmp)
 
  
 
@@ -159,9 +159,9 @@ of Ethernet.npl lives.  Notice that the
 path was added to the bottom of the Parser Search
 Path:
 
-[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/6560.4.bmp)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/6560.4.bmp)
+[![](images/6560.4.bmp)
 
-[](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/8875.4.bmp)
+[](images/8875.4.bmp)
 
 To ensure that your copy of Ethernet.npl takes precedent  
 over its original, you must move 
@@ -171,7 +171,7 @@ until it
 occupies the top
 slot.
 
-[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/6562.5.bmp)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/6562.5.bmp)
+[![](images/6562.5.bmp)
 
  
 
@@ -190,7 +190,7 @@ modification:
 
  
 
-[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/4370.6.bmp)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/4370.6.bmp)
+[![](images/4370.6.bmp)
 
  
 

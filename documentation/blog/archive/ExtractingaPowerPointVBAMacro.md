@@ -47,7 +47,7 @@ part.
 
  
 
-[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/8156.1.png)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/8156.1.png)
+[![](images/8156.1.png)
 
 *Figure 1.0*
 
@@ -62,7 +62,7 @@ box on the right like in Figure
 
  
 
-*[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/8284.2.png)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/8284.2.png)*
+*[![](images/8284.2.png)*
 
 *Figure 1.1*
 
@@ -74,7 +74,7 @@ will be able to add code like in Figure
 
  
 
-[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/0131.3.png)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/0131.3.png)
+[![](images/0131.3.png)
 
 *Figure 1.2*
 
@@ -88,7 +88,7 @@ password like in Figure
 
  
 
-[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/6153.4.png)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/6153.4.png)
+[![](images/6153.4.png)
 
 *Figure 1.3*
 
@@ -134,7 +134,7 @@ this step are in the PowerPoint Document*
 
  
 
-[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/5822.5.png)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/5822.5.png)
+[![](images/5822.5.png)
 
  
 
@@ -437,7 +437,7 @@ storages:
 
  
 
-[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/0602.6.png)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/0602.6.png)
+[![](images/0602.6.png)
 
  
 

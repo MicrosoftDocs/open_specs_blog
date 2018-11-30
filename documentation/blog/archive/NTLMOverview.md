@@ -178,4 +178,4 @@ Windows
 
  
 
-[\[NTLM-OVERVIEW\].zip](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Components.PostAttachments/00/09/58/25/41/%5BNTLM-OVERVIEW%5D.zip)
+[\[NTLM-OVERVIEW\].zip](images/%5BNTLM-OVERVIEW%5D.zip)

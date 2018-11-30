@@ -534,4 +534,4 @@ event.
 
 <http://www.microsoft.com/downloads/details.aspx?FamilyID=845289ca-16cc-4c73-8934-dd46b5ed1d33&displaylang=en>
 
-[attachments.zip](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Components.PostAttachments/00/09/55/46/16/attachments.zip)
+[attachments.zip](images/46/16/attachments.zip)

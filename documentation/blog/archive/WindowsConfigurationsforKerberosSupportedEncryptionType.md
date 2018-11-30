@@ -35,7 +35,7 @@ service can run under a user account.  The setting on the user account
 will affect the encryption type selection for the service ticket.
 </span></span>
 
-<span style="font-family: Calibri;">              </span><span style="font-family: Calibri;"> [![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/1882.KerberosSetting-1.png)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/1882.KerberosSetting-1.png)</span>
+<span style="font-family: Calibri;">              </span><span style="font-family: Calibri;"> [![](images/1882.KerberosSetting-1.png)</span>
 
 <span style="font-family: Calibri;"><span style="font-size: small;">The
 following settings affect the selection of the encryption
@@ -130,7 +130,7 @@ editing UserAccountControl attribute, you should add or remove bit
 following is a screen shot for editing the
 attributes.</span></span>
 
-<span style="font-family: Calibri; font-size: small;"> [![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/8867.Kerberos-setting-2.PNG)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/8867.Kerberos-setting-2.PNG)</span>
+<span style="font-family: Calibri; font-size: small;"> [![](images/8867.Kerberos-setting-2.PNG)</span>
 
 <span style="font-family: Calibri; font-size: small;"> </span>
 
@@ -164,7 +164,7 @@ be found.
 
 <span style="font-family: Calibri; font-size: small;"> </span>
 
-<span style="font-size: small;"><span style="font-family: Calibri;">[![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/2110.Kerberos-setting-3.png)](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/2110.Kerberos-setting-3.png)</span></span>
+<span style="font-size: small;"><span style="font-family: Calibri;">[![](images/2110.Kerberos-setting-3.png)</span></span>
 
 <span style="font-size: small;"><span style="font-family: Calibri;">   
 Looking a little further, we can see this policy setting is mapped to

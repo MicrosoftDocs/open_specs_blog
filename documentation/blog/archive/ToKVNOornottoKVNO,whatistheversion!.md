@@ -76,7 +76,7 @@ used to encrypt the service ticket.</span>
 KVNO is located when looking into the
 AP\_REQ:</span>
 
-<span style="mso-no-proof: yes"><span style="font-family: Calibri; font-size: small;">![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/4807.pictureblogkvno.jpg)</span></span>
+<span style="mso-no-proof: yes"><span style="font-family: Calibri; font-size: small;">![](images/4807.pictureblogkvno.jpg)</span></span>
 
 <span style="font-family: Calibri; font-size: small;"> </span>
 

@@ -33,7 +33,7 @@ seeing this figure from section
 
  
 
-![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/1256.F1.jpg)
+![](images/1256.F1.jpg)
 
  
 
@@ -132,7 +132,7 @@ structures.
 
  
 
-![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/1464.F2.jpg)
+![](images/1464.F2.jpg)
 
  
 
@@ -160,7 +160,7 @@ offset
 
  
 
-![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/4426.F3.jpg)
+![](images/4426.F3.jpg)
 
  
 
@@ -198,7 +198,7 @@ location.
 
  
 
-![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/4774.F4.jpg)
+![](images/4774.F4.jpg)
 
  
 
@@ -221,7 +221,7 @@ this case it's located at
 
  
 
- ![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/3644.F5.jpg)
+ ![](images/3644.F5.jpg)
 
  
 
@@ -256,7 +256,7 @@ file location
 
  
 
-![](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/22/05/0042.F6.jpg)
+![](images/0042.F6.jpg)
 
  
 

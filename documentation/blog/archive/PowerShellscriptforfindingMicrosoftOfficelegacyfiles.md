@@ -259,7 +259,7 @@ PIDSI\_DOC\_SECURITY .  .  .  :
 
  
 
-[OfficeLegacyFilter.ps1](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Components.PostAttachments/00/10/40/94/72/OfficeLegacyFilter.ps1)
+[OfficeLegacyFilter.ps1](images/OfficeLegacyFilter.ps1)
 
 </div>
 

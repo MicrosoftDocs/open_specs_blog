@@ -832,4 +832,4 @@ apostrophe
 
 </div>
 
-[Schema.zip](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Components.PostAttachments/00/09/80/58/90/Schema.zip)
+[Schema.zip](images/Schema.zip)

@@ -68,7 +68,7 @@ entry.
 
  
 
-[SMB2-Multi-Credit.zip](media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Components.PostAttachments/00/09/79/78/18/SMB2-Multi-Credit.zip)
+[SMB2-Multi-Credit.zip](images/SMB2-Multi-Credit.zip)
 
 </div>
 
