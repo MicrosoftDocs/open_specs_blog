@@ -47,7 +47,7 @@ part.
 
  
 
-[![](images/8156.1.png)
+![](images/8156.1.png)
 
 *Figure 1.0*
 
@@ -62,7 +62,7 @@ box on the right like in Figure
 
  
 
-*[![](images/8284.2.png)*
+*![](images/8284.2.png)*
 
 *Figure 1.1*
 
@@ -74,7 +74,7 @@ will be able to add code like in Figure
 
  
 
-[![](images/0131.3.png)
+![](images/0131.3.png)
 
 *Figure 1.2*
 
@@ -88,7 +88,7 @@ password like in Figure
 
  
 
-[![](images/6153.4.png)
+![](images/6153.4.png)
 
 *Figure 1.3*
 
@@ -134,7 +134,7 @@ this step are in the PowerPoint Document*
 
  
 
-[![](images/5822.5.png)
+![](images/5822.5.png)
 
  
 
@@ -437,7 +437,7 @@ storages:
 
  
 
-[![](images/0602.6.png)
+![](images/0602.6.png)
 
  
 

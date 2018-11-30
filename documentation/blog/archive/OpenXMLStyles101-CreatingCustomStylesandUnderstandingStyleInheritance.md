@@ -39,7 +39,7 @@ but it makes it easier to identify each one in the XML if they are
 numbered on some
 way.  
   
-[![](images/5076.Untitledpicture.png)  
+![](images/5076.Untitledpicture.png)  
 *<span style="font-size: x-small;">Figure 1: Three paragraphs in the
 default style.</span>*  
   
@@ -61,7 +61,7 @@ extract the contents. Open the folder and then examine the contents of
 the "word" folder. The contents should look similar to
 this.  
   
-[![](images/5732.Untitledpicture.png)  
+![](images/5732.Untitledpicture.png)  
 *<span style="font-size: x-small;">Figure 2: The contents of the "word"
 folder.</span>*  
   
@@ -178,7 +178,7 @@ updated ones and then rename back to the .docx extension. After you do
 that and open the file it Word it should look like
 this.  
   
-[![](images/4174.Untitledpicture.png)  
+![](images/4174.Untitledpicture.png)  
 *<span style="font-size: x-small;">Figure 3: MyCustomStyle1 applied to
 the first paragraph.</span>*  
   
@@ -228,7 +228,7 @@ w:rsidR="009A7F68" w:rsidRDefault="009A7F68"\></span>
 Update the package contents again and let's take a look at the
 result.  
   
-[![](images/8816.Untitledpicture.png)  
+![](images/8816.Untitledpicture.png)  
   
 *<span style="font-size: x-small;">Figure 4: MyCustomStyle2 applied to
 the second paragraph</span>*  
@@ -293,7 +293,7 @@ w:id="0"/\></span>
 And take a look at the
 result.  
   
-[![](images/1581.Untitledpicture.png)  
+![](images/1581.Untitledpicture.png)  
 *<span style="font-size: x-small;">Figure 5: MyCustomStyle3 applied to
 the third paragraph.</span>*  
   

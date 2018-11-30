@@ -50,7 +50,7 @@ previous Shared Secret Request.
 Figure 1 MESSAGE-INTEGRITY
 Attribute
 
-[![](images/7827.message-integrityattribute.png)
+![](images/7827.message-integrityattribute.png)
 
 The calculation of the MESSAGE-INTEGRITY attribute is described in
 section 10.2.8 of the referenced STUN RFC. The HMAC-SHA1represents a

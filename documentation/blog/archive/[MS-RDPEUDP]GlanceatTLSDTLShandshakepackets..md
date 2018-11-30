@@ -78,13 +78,13 @@ it. 
 
  
 
-[![](images/5287.image2.png)
+![](images/5287.image2.png)
 
  
 
  
 
-[![](images/7266.image3.png)
+![](images/7266.image3.png)
 
  
 
@@ -96,7 +96,7 @@ Step3.
 
  
 
-[![](images/7888.image4.png)
+![](images/7888.image4.png)
 
 5\. Likewise, we can decode remaining TLS session setup PDUs over UDP
 for further analysis.

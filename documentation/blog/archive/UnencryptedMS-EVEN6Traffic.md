@@ -33,7 +33,7 @@ value of each remote procedure call. Refer below screenshot highlighting
 authentication-level
 field.
 
- [![](images/0741.First.png)
+ ![](images/0741.First.png)
 
   
  **What does MS-EVEN6 specification say about authentication-level?**
@@ -149,28 +149,28 @@ error\_status\_t error = EvtRpcOpenLogHandle(L"Application", 1,
 Bind Request Packet with authentication-level as
 RPC\_C\_AUTHN\_LEVEL\_PKT\_INTEGRITY:
 
- [![](images/3513.Second.png)
+ ![](images/3513.Second.png)
 
   
    
  Bind Response Packet with authentication-level as
 RPC\_C\_AUTHN\_LEVEL\_PKT\_INTEGRITY:
 
- [![](images/1030.Third.png)
+ ![](images/1030.Third.png)
 
   
    
  Unencrypted EvtRpcOpenLogHandle request
 packet:
 
- [![](images/7271.Fourth.jpg)
+ ![](images/7271.Fourth.jpg)
 
  
 
 Unencrypted EvtRpcOpenLogHandle response
 packet:
 
- [![](images/5635.Fifth.png)
+ ![](images/5635.Fifth.png)
 
  
 

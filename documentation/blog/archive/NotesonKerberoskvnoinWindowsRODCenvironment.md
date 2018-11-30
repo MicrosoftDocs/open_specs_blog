@@ -148,7 +148,7 @@ The client’s key is derived upon replication from a writable DC and is
 not tied to the
 RODC.</span></span>
 
-<span style="font-family: Times New Roman; font-size: small;">[![](images/1401.AS_REP_1.jpg) </span>
+<span style="font-family: Times New Roman; font-size: small;">![](images/1401.AS_REP_1.jpg) </span>
 
  
 
@@ -166,7 +166,7 @@ version of the key stored on the RODC.
 
  
 
-<span style="font-family: Times New Roman; font-size: small;">[![](images/3264.TGS_REQ_1.jpg)</span>
+<span style="font-family: Times New Roman; font-size: small;">![](images/3264.TGS_REQ_1.jpg)</span>
 
 <span style="font-size: small;"><span style="font-family: Times New Roman;">It
 should be noted that if the TGS-REQ is malformed, e.g. Kvno encoded with
@@ -183,7 +183,7 @@ key is derived upon replication from a writable DC and is not tied to
 the
 RODC.</span></span>
 
-<span style="font-family: Times New Roman; font-size: small;">[![](images/8741.TGS_REP_1.jpg)</span>
+<span style="font-family: Times New Roman; font-size: small;">![](images/8741.TGS_REP_1.jpg)</span>
 
 <span style="font-family: Times New Roman;"><span style="font-size: small;">Example
 of LDAP record for RODC krbtgt

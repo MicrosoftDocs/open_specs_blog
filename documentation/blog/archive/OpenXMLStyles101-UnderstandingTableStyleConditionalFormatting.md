@@ -47,7 +47,7 @@ look something like
 this.
 
   
-[![](images/1882.Untitledpicture.png)  
+![](images/1882.Untitledpicture.png)  
 *<span style="font-size: x-small; color: #808080;">Figure 1: A new
 document containing an empty table.</span>*  
   
@@ -70,7 +70,7 @@ the "word" folder. The contents should look similar to
 this.
 
   
-[![](images/4152.Untitledpicture.png)  
+![](images/4152.Untitledpicture.png)  
 <span style="color: #808080;">*<span style="font-size: x-small;">Figure
 2: The contents of the "word" folder.</span>*</span>  
   
@@ -293,7 +293,7 @@ w:color="auto"/\></span>
 Now when you open the document in Word it should look something like
 this.  
   
-[![](images/47848.Untitledpicture.png)  
+![](images/47848.Untitledpicture.png)  
 *<span style="font-size: x-small; color: #888888;">Figure 3: A table
 with odd row banding applied.</span>*
 
@@ -335,7 +335,7 @@ obvious, setting noVBand to 0 (similar to noHBand) tells word to apply
 any conditional formatting for columns. The table should now look like
 this.  
   
-[![](images/3438.Untitledpicture.png)  
+![](images/3438.Untitledpicture.png)  
 <span style="font-size: x-small;">*<span style="color: #888888;">Figure
 4: A table with both row and column banding applied.</span>*</span>
 

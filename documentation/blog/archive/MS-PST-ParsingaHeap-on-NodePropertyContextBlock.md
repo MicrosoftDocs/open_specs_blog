@@ -61,7 +61,7 @@ block.
 
  
 
-[![](images/4645.F1.png)
+![](images/4645.F1.png)
 
 Figure 1: The HNHDR.
 
@@ -103,7 +103,7 @@ for cAlloc and cFree and you get the total length of the
 which is 22 bytes. Reading all 22 bytes we have the
 following.
 
-[![](images/2234.F2.png)
+![](images/2234.F2.png)
 
 Figure 2: The HNPAGEMAP.
 
@@ -141,7 +141,7 @@ which is 8 bytes in length.
 The
 BTHHEADER
 
-[![](images/0513.F3.png) 
+![](images/0513.F3.png) 
 
 Figure 3: The BTHHEADER.
 
@@ -246,7 +246,7 @@ bytes).
 
  
 
-[![](images/8475.F4.png)
+![](images/8475.F4.png)
 
  
 
@@ -347,7 +347,7 @@ length.
 
  
 
-[![](images/7220.F5.png)
+![](images/7220.F5.png)
 
 Figure 5: pidTagDisplayName.
 
@@ -363,6 +363,6 @@ process.
 
  
 
-[![](images/5468.F6.png)
+![](images/5468.F6.png)
 
 Figure 6: Complete Heap-On-Node Property Context Block.

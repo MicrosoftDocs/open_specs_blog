@@ -102,7 +102,7 @@ it:</span>
     the 'Moon' shape for demonstration
 purposes.</span>
 
-<span style="font-family: arial,helvetica,sans-serif; font-size: small; font-style: normal; font-weight: normal;">[![](images/5241.pic1.png)</span>
+<span style="font-family: arial,helvetica,sans-serif; font-size: small; font-style: normal; font-weight: normal;">![](images/5241.pic1.png)</span>
 
 2.  <span style="font-family: arial,helvetica,sans-serif; font-size: small; font-style: normal; font-weight: normal;"></span><span style="font-family: arial,helvetica,sans-serif; font-size: small;">Save
     the presentation as
@@ -312,7 +312,7 @@ line. The second one is drawn automatically by the
 **<span style="font-family: courier new,courier;">\<close /\></span>**
 element.</span>
 
-<span style="font-family: arial,helvetica,sans-serif; font-size: small;">[![](images/0636.pic2.png)</span>
+<span style="font-family: arial,helvetica,sans-serif; font-size: small;">![](images/0636.pic2.png)</span>
 
 <span style="font-family: arial,helvetica,sans-serif; font-size: small;">Refer
 to

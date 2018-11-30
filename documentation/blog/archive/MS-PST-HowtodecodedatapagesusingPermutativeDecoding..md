@@ -52,7 +52,7 @@ stored in the PST file. In my clean PST file I found the NBTENTRY for
 NID 0x122 in the first page of the Node
 Btree.
 
-[![](images/3173.F1.png)<span style="color: #999999; font-size: x-small;">  
+![](images/3173.F1.png)<span style="color: #999999; font-size: x-small;">  
   
 Figure 1: NBT Page containing the NBTEntry with a NID value of
 0x122.</span>
@@ -65,7 +65,7 @@ need to locate the BBTENTRY in the Block BTree. I also found the
 BBTENTRY that I was looking for in the first page of the Block
 BTree.
 
-[![](images/4137.F2.png)<span style="color: #999999; font-size: x-small;">  
+![](images/4137.F2.png)<span style="color: #999999; font-size: x-small;">  
   
 Figure 2: BBT Page containing the BBTEntry with a bid value of
 0x64.</span>
@@ -86,7 +86,7 @@ nearest multiple of 64. That is the actual size of the block.
 So, starting at file offset 0x53C0 read 128
 bytes.
 
-[![](images/4263.F3.png)<span style="color: #999999; font-size: x-small;">  
+![](images/4263.F3.png)<span style="color: #999999; font-size: x-small;">  
   
 Figure 3: The 128-byte data block at file location
 0x53C0.</span>
@@ -274,7 +274,7 @@ like this. Notice that only the highlighted bytes have changed. The
 padding and PageTrailer are not processed by the decryption
 method.
 
-[![](images/5430.F4.png)<span style="color: #999999; font-size: x-small;">  
+![](images/5430.F4.png)<span style="color: #999999; font-size: x-small;">  
   
 Figure 4: Decrypted 62-byte data block.</span>
 
