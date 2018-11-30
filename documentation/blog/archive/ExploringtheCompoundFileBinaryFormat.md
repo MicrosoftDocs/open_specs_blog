@@ -53,8 +53,8 @@ view) of the organization that’s manipulated by the structured storage
 API’s like StgCreateDofile() and IStorage::CreateStream() on your
 behalf:
 
-[![cfbf2](media/TNBlogsFS/BlogFileStorage/blogs_msdn/openspecification/WindowsLiveWriter/ExploringtheCompoundFileBinaryFormat_13A40/cfbf2_thumb.png
-"cfbf2")](media/TNBlogsFS/BlogFileStorage/blogs_msdn/openspecification/WindowsLiveWriter/ExploringtheCompoundFileBinaryFormat_13A40/cfbf2_2.png)
+[![cfbf2](images/cfbf2_thumb.png
+"cfbf2")](images/cfbf2_2.png)
 
  
 
@@ -113,8 +113,8 @@ down the line and everything looks in order but on the 512th
 the next sector in the file doesn’t belong
 **STM1**\! 
 
-[![discontig](media/TNBlogsFS/BlogFileStorage/blogs_msdn/openspecification/WindowsLiveWriter/ExploringtheCompoundFileBinaryFormat_13A40/discontig_thumb_2.png
-"discontig")](media/TNBlogsFS/BlogFileStorage/blogs_msdn/openspecification/WindowsLiveWriter/ExploringtheCompoundFileBinaryFormat_13A40/discontig_6.png)
+[![discontig](images/discontig_thumb_2.png
+"discontig")](images/discontig_6.png)
 
 ###### 
 
@@ -303,8 +303,8 @@ data in order to fit contiguously in one ministream sector (assuming 512
 byte
 sectors).
 
-[![ministreamfrag](media/TNBlogsFS/BlogFileStorage/blogs_msdn/openspecification/WindowsLiveWriter/ExploringtheCompoundFileBinaryFormat_13A40/ministreamfrag_thumb_1.png
-"ministreamfrag")](media/TNBlogsFS/BlogFileStorage/blogs_msdn/openspecification/WindowsLiveWriter/ExploringtheCompoundFileBinaryFormat_13A40/ministreamfrag_4.png)
+[![ministreamfrag](images/ministreamfrag_thumb_1.png
+"ministreamfrag")](images/ministreamfrag_4.png)
 
 ###### Figure 4: Non-contiguous sectors of the ministream break up the (sequential) sectors of contained streams
 

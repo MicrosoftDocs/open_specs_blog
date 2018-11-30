@@ -54,8 +54,8 @@ computers.
 enabled for **winrm quickconfig** to
 succeed.
 
-[![pic1](media/TNBlogsFS/BlogFileStorage/blogs_msdn/openspecification/WindowsLiveWriter/EnablingpushsubscriptionsinwinrmwhereWin_DF3B/pic1_thumb.png
-"pic1")](media/TNBlogsFS/BlogFileStorage/blogs_msdn/openspecification/WindowsLiveWriter/EnablingpushsubscriptionsinwinrmwhereWin_DF3B/pic1_2.png)
+[![pic1](images/pic1_thumb.png
+"pic1")](images/pic1_2.png)
 
 4\. Open a command prompt and run the command ***winrm quickconfig –q***
 on both the source and collector machine. NOTE: This step is not needed
@@ -67,8 +67,8 @@ allow you to edit the local security policy settings that affect the way
 winrm functions. This should be done on both source and collector
 machines.
 
-[![pic2](media/TNBlogsFS/BlogFileStorage/blogs_msdn/openspecification/WindowsLiveWriter/EnablingpushsubscriptionsinwinrmwhereWin_DF3B/pic2_thumb.png
-"pic2")](media/TNBlogsFS/BlogFileStorage/blogs_msdn/openspecification/WindowsLiveWriter/EnablingpushsubscriptionsinwinrmwhereWin_DF3B/pic2_2.png)
+[![pic2](images/pic2_thumb.png
+"pic2")](images/pic2_2.png)
 
 6\. Most important is to configure your authentication scheme and
 trusted hosts settings under WinRM Client and your selected
@@ -120,8 +120,8 @@ initiated.
 Ticket or client
 certificate)
 
-[![pic3](media/TNBlogsFS/BlogFileStorage/blogs_msdn/openspecification/WindowsLiveWriter/EnablingpushsubscriptionsinwinrmwhereWin_DF3B/pic3_thumb.png
-"pic3")](media/TNBlogsFS/BlogFileStorage/blogs_msdn/openspecification/WindowsLiveWriter/EnablingpushsubscriptionsinwinrmwhereWin_DF3B/pic3_2.png)
+[![pic3](images/pic3_thumb.png
+"pic3")](images/pic3_2.png)
 
 **Trusted host settings for winrm client configuration (The explain tab
 has more detailed help on the configuration setting. NOTE: This is a
@@ -148,8 +148,8 @@ using:
 · ***winrm get
 winrm/config***
 
-[![pic4](media/TNBlogsFS/BlogFileStorage/blogs_msdn/openspecification/WindowsLiveWriter/EnablingpushsubscriptionsinwinrmwhereWin_DF3B/pic4_thumb.png
-"pic4")](media/TNBlogsFS/BlogFileStorage/blogs_msdn/openspecification/WindowsLiveWriter/EnablingpushsubscriptionsinwinrmwhereWin_DF3B/pic4_2.png)
+[![pic4](images/pic4_thumb.png
+"pic4")](images/pic4_2.png)
 
 The above configuration shows both client and server configuration. This
 output should match what is stored in the policy database shown in
@@ -519,8 +519,8 @@ specified the forwarded events log. The screenshot below shows an
 example of the forwarded
 event.
 
-[![pic5](media/TNBlogsFS/BlogFileStorage/blogs_msdn/openspecification/WindowsLiveWriter/EnablingpushsubscriptionsinwinrmwhereWin_DF3B/pic5_thumb.png
-"pic5")](media/TNBlogsFS/BlogFileStorage/blogs_msdn/openspecification/WindowsLiveWriter/EnablingpushsubscriptionsinwinrmwhereWin_DF3B/pic5_2.png)
+[![pic5](images/pic5_thumb.png
+"pic5")](images/pic5_2.png)
 
 #### 
 

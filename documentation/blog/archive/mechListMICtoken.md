@@ -63,16 +63,16 @@ ii. Kerberos
 iii. NT LAN Manager
 (NTLM)
 
-[![image](media/TNBlogsFS/BlogFileStorage/blogs_msdn/openspecification/WindowsLiveWriter/mechListMICtoken_A135/image_thumb.png
-"image")](media/TNBlogsFS/BlogFileStorage/blogs_msdn/openspecification/WindowsLiveWriter/mechListMICtoken_A135/image_2.png)
+[![image](images/image_thumb.png
+"image")](images/image_2.png)
 
 2\. If the server supports any of the authentication mechanisms, it will
 choose the most preferred one that it also supports. It will also send a
 NegTokenResp message to the client. In this example, the server supports
 MsKerberos:
 
-[![image](media/TNBlogsFS/BlogFileStorage/blogs_msdn/openspecification/WindowsLiveWriter/mechListMICtoken_A135/image_thumb_1.png
-"image")](media/TNBlogsFS/BlogFileStorage/blogs_msdn/openspecification/WindowsLiveWriter/mechListMICtoken_A135/image_4.png)
+[![image](images/image_thumb_1.png
+"image")](images/image_4.png)
 
 3\. Now that client and server agree on an authentication mechanism,
 they will exchange mechanism specific tokens. In this example, they have
@@ -80,16 +80,16 @@ agreed on Kerberos. So, the client will send a NegTokenResp containing a
 Kerberos AP-REQ
 token.
 
-[![image](media/TNBlogsFS/BlogFileStorage/blogs_msdn/openspecification/WindowsLiveWriter/mechListMICtoken_A135/image_thumb_2.png
-"image")](media/TNBlogsFS/BlogFileStorage/blogs_msdn/openspecification/WindowsLiveWriter/mechListMICtoken_A135/image_6.png)
+[![image](images/image_thumb_2.png
+"image")](images/image_6.png)
 
 4\. The server will process the token and, if everything goes well, will
 send a NegTokenResp that will contain a Kerberos AP-REP and a
 mechListMIC token - if the etype is AES128 or
 AES256.
 
-[![clip\_image008](media/TNBlogsFS/BlogFileStorage/blogs_msdn/openspecification/WindowsLiveWriter/mechListMICtoken_A135/clip_image008_thumb.jpg
-"clip_image008")](media/TNBlogsFS/BlogFileStorage/blogs_msdn/openspecification/WindowsLiveWriter/mechListMICtoken_A135/clip_image008_2.jpg)
+[![clip\_image008](images/clip_image008_thumb.jpg
+"clip_image008")](images/clip_image008_2.jpg)
 
 5\. At this point, Kerberos authentication is complete but mechListMIC
 token exchange is not complete. A valid security context will not be
@@ -98,8 +98,8 @@ client will send a NegTokenResp with its own generated mechListMIC token
 and set the NegState to
 accept-completed.
 
-[![clip\_image010](media/TNBlogsFS/BlogFileStorage/blogs_msdn/openspecification/WindowsLiveWriter/mechListMICtoken_A135/clip_image010_thumb.jpg
-"clip_image010")](media/TNBlogsFS/BlogFileStorage/blogs_msdn/openspecification/WindowsLiveWriter/mechListMICtoken_A135/clip_image010_2.jpg)
+[![clip\_image010](images/clip_image010_thumb.jpg
+"clip_image010")](images/clip_image010_2.jpg)
 
 6\. This will finish the negotiation and authentication phase. The
 regular message exchange between the client and server can now commence.
