@@ -3,11 +3,10 @@
   - name: May 2017
     items:
     - name: "SMB 2 and SMB 3 security in Windows 10: the anatomy of signing and cryptographic keys"
-      href: SMB2andSMB3securityinWindows10theanatomyofsigningandcryptographickeys.md
-    - name: How Kerberos user-to-user authentication works?
-      href: HowKerberosuser-to-userauthenticationworks.md
-  items:
+      href: "SMB2andSMB3securityinWindows10theanatomyofsigningandcryptographickeys.md"
+    - name: "How Kerberos user-to-user authentication works?"
+      href: "HowKerberosuser-to-userauthenticationworks.md"
   - name: Feb 2017
     items:
-    - name: Verifying STUN Message Integrity for Lync and Skype for Business ICE Traffic
-      href: VerifyingSTUNMessageIntegrityforLyncandSkypeforBusinessICETraffic.md
+    - name: "Verifying STUN Message Integrity for Lync and Skype for Business ICE Traffic"
+      href: "VerifyingSTUNMessageIntegrityforLyncandSkypeforBusinessICETraffic.md"
