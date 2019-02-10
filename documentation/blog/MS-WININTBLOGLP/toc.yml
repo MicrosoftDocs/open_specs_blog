@@ -4,6 +4,20 @@
   - name: "2018"
     href: b63a48de-091f-488a-86a6-b9417f239438.md
     items:
+    - name: "November 2018"
+      href: f31bc0ae-67bd-41de-8124-b27f78a68a54.md
+      items:
+      - name: "11/26 - Errata added for [MS-EMFPLUS]: Enhanced Metafile Format Plus Extensions"
+        href: 795d2018-0c7f-41f2-9ea2-1d486a612c1c.md
+      - name: "11/12 - Errata added for [MS-SMB2]: Server Message Block (SMB) Protocol Versions 2 and 3"
+        href: 3df5ff1f-7a73-45b5-afd8-d01ffd0b6954.md
+    - name: "October 2018"
+      href: a02d5abb-ca0d-4a95-ae5d-cb226d77bd51.md
+      items:
+      - name: "10/29 - Errata added for [MS-SMB2]: Server Message Block (SMB) Protocol Versions 2 and 3"
+        href: 25276e5b-1a04-41cc-b117-1e5b796c8b06.md
+      - name: "10/29 - Errata added for [MS-RPRN]: Print System Remote Protocol"
+        href: dd26f4ec-267d-48f9-813e-01bd6d091acb.md
     - name: "September 2018"
       href: 10b0ac67-ac9f-453b-875f-111d0214802f.md
       items:
@@ -11,12 +25,5 @@
         href: 0a7b1c59-dc5a-4cb9-a783-7b58fb53aaa4.md
       - name: "09/12 – Errata archived for Windows v1809/Windows Server 2019 Release"
         href: 3b874ab2-3c7c-4df4-87ee-b406ea4a7523.md
-    - name: "July 2018"
-      href: dbe20915-1e1a-49a8-8a3f-a95ed187f18f.md
-      items:
-      - name: "07/16 – Errata added for [MS-RRP]: Windows Remote Registry Protocol"
-        href: 2fc4b30b-2771-4e15-ae46-9d3eb980fed5.md
-      - name: "07/16 – Errata added for [MS-MDE2]: Mobile Device Enrollment Protocol Version 2"
-        href: b5681de7-5342-48f2-b12f-3d16dffa147e.md
-      - name: "07/16 Document Release"
-        href: 64c8dea7-5419-4518-b71a-809f0d1feff3.md
+    - name: "Errata Blog Post Archives"
+      href: 8f3cb384-16a5-43e0-ac87-55333b6207c3.md
