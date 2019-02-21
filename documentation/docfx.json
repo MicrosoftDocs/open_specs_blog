@@ -40,7 +40,7 @@
       "uhfHeaderId": "MSDocsHeader-OpenSpecs",
       "ms.prod": "openspecs-office",
       "topic": "conceptual",
-      "contributors_to_exclude": ["mrsgit09","skesseks","jmazzotta","andrewdavidoff","Incyuna2z","enoch717","donnyluu","cindysomer","Adrian26","v-markcar","erikadoyle","champagnie","stguty","jasonfis-msft"],
+      "contributors_to_exclude": ["mrsgit09","someone", "skesseks","jmazzotta","andrewdavidoff","Incyuna2z","enoch717","donnyluu","cindysomer","Adrian26","v-markcar","erikadoyle","champagnie","stguty","jasonfis-msft"],
       "ms.topic": "conceptual",
       "_comment_feedback_system": "GitHub",
       "_comment_feedback_github_repo": "MicrosoftDocs/open_specs_blog",
