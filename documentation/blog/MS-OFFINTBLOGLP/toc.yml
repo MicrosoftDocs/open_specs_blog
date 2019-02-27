@@ -4,15 +4,8 @@
   - name: "2019"
     href: 4c90f394-1592-4a2b-8c51-8849e15eee81.md
     items:
-    - name: "March 2017 - Rename in Sections Tool GenDox Tab"
-      href: c16d446d-20be-4c9d-b0c8-c8544c2664c8.md
+    - name: "February 2019"
+      href: 7b847723-5d25-4b57-a5c1-76a099e89d0d.md
       items:
-      - name: "Blog Entry Name - Rename in Sections Tool GenDox Tab"
-        href: 6b08ae1c-f7dc-4735-8d9b-6981d49c36fc.md
-  - name: "2019 Events"
-    href: e8d69f54-53b0-4fb0-8f0a-e91fcd562b89.md
-    items:
-    - name: "DevDays Shanghai 2019"
-      href: e69cae73-9609-4fbb-8218-3c3560bf12ce.md
-    - name: "DevDays Asia 2019 @ Taipei"
-      href: fef5ea9c-3607-4f10-b70c-9783d314855c.md
+      - name: "Save the Date for DevDays Shanghai!"
+        href: e69cae73-9609-4fbb-8218-3c3560bf12ce.md
