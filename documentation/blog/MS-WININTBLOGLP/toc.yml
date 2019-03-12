@@ -1,6 +1,16 @@
 - name: "Windows Interoperability Developer Blog"
   href: 68ab5fe5-08a1-4426-af41-9a20380624a6.md
   items:
+  - name: "2019"
+    href: 53b99f95-5895-4a48-95a9-c050acfdf1d5.md
+    items:
+    - name: "March 2019"
+      href: 8f87919b-e389-4179-9a79-29a6dcd8c370.md
+      items:
+      - name: "03/13 - Errata archived for March 2019 Windows 10/Windows Server 2019 release"
+        href: 666a7dfe-d4a4-4598-9008-64fd4616a2fd.md
+      - name: "02/19 - Errata added for several RDP docs"
+        href: 73707139-6e59-4c86-b811-50156dda7b0f.md
   - name: "2018"
     href: b63a48de-091f-488a-86a6-b9417f239438.md
     items:
