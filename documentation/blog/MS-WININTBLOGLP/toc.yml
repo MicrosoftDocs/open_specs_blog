@@ -7,8 +7,6 @@
     - name: "March 2019"
       href: 8f87919b-e389-4179-9a79-29a6dcd8c370.md
       items:
-      - name: "03/18 - Errata added for [MS-CSRA], [MS-RDPEMT], and [MS-RDPEUDP]"
-        href: 171376c7-36c0-46cc-8185-9858deb30232.md
       - name: "03/13 - Errata archived for March 2019 Windows 10/Windows Server 2019 release"
         href: 666a7dfe-d4a4-4598-9008-64fd4616a2fd.md
       - name: "02/19 - Errata added for several RDP docs"
