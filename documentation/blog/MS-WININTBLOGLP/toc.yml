@@ -4,6 +4,11 @@
   - name: "2019"
     href: 53b99f95-5895-4a48-95a9-c050acfdf1d5.md
     items:
+    - name: "April 2019"
+      href: 90071ec6-eba9-48f8-9b48-d249ab4d571a.md
+      items:
+      - name: "04/01 - Errata added for MS-NRPC"
+        href: 9cc8f4e4-a43f-4950-b8dc-1488d1e9c437.md
     - name: "March 2019"
       href: 8f87919b-e389-4179-9a79-29a6dcd8c370.md
       items:
