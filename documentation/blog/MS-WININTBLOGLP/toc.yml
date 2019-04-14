@@ -7,6 +7,8 @@
     - name: "April 2019"
       href: 90071ec6-eba9-48f8-9b48-d249ab4d571a.md
       items:
+      - name: "04/15 - Errata added for [MS-SMB2] and [MS-TSTS]"
+        href: ad7103c7-9155-4cd8-a835-f3ecccdd21db.md
       - name: "04/01 - Errata added for MS-NRPC"
         href: 9cc8f4e4-a43f-4950-b8dc-1488d1e9c437.md
       - name: "04/01 - Tips and Tricks for Using docs.microsoft.com (DMC)"
