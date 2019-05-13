@@ -4,6 +4,11 @@
   - name: "2019"
     href: 53b99f95-5895-4a48-95a9-c050acfdf1d5.md
     items:
+    - name: "May 2019"
+      href: 886f2fa7-6648-4409-8785-f34e7057b832.md
+      items:
+      - name: "05/13 - Errata added for [MS-TDS]"
+        href: 85b7a488-abe7-4c28-a5bf-62d8147b0dd1.md
     - name: "April 2019"
       href: 90071ec6-eba9-48f8-9b48-d249ab4d571a.md
       items:
