@@ -1,6 +1,14 @@
 - name: "SQL Server Interoperability Developer Blog"
   href: 4fac6802-34cf-4f7a-ab52-cb34d48913b3.md
   items:
+  - name: "2019"
+    href: 1d0338c5-7d2f-47be-be42-0b20e4189a46.md
+    items:
+    - name: "June 2019"
+      href: f40a5f0a-c244-4a5b-b137-1c6833a4c063.md
+      items:
+      - name: "06/10 - Errata added for [MS-SCCSTR]: SqlClient Connection String Structure"
+        href: 07bd0af5-bd43-4ae9-8bd7-dc9bba21c4e8.md
   - name: "2018"
     href: a7511e7f-928d-40fd-adf1-3a4d66e10e09.md
     items:
