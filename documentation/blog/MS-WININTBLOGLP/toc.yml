@@ -7,6 +7,8 @@
     - name: "June 2019"
       href: b46eb6ad-96bd-4d3b-80ef-b4cac490e3b2.md
       items:
+      - name: "06/24 - Errata added for [MS-RAI], [MS-RDPERP], [MS-SMB2], [MS-TDS], and [MS-WUSP]"
+        href: 91797b07-3a66-488c-9334-5023638c4c87.md
       - name: "06/10 - Errata added for [MS-SMB2] and [MS-WMIO]"
         href: 7fd3a492-31dd-4e3d-a3f4-d2828a479f1b.md
     - name: "May 2019"
