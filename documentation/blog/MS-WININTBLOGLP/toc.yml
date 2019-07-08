@@ -4,6 +4,11 @@
   - name: "2019"
     href: 53b99f95-5895-4a48-95a9-c050acfdf1d5.md
     items:
+    - name: "July 2019"
+      href: bfd44192-3959-4399-93da-6743118fc460.md
+      items:
+      - name: "07/08 - Errata added for [MS-FSA], [MS-RDPBCGR], [MS-RDPEPC], [MS-RDPERP], and [MS-XCA]"
+        href: 81cbb832-8bf1-4e68-b46a-7fdb371ddf6b.md
     - name: "June 2019"
       href: b46eb6ad-96bd-4d3b-80ef-b4cac490e3b2.md
       items:
