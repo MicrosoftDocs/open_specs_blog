@@ -7,6 +7,8 @@
     - name: "July 2019"
       href: bfd44192-3959-4399-93da-6743118fc460.md
       items:
+      - name: "07/22 - Errata added for [MS-SFU]"
+        href: 7fa9eb87-5b32-48aa-a7fb-450822b6724c.md
       - name: "07/08 - Errata added for [MS-FSA], [MS-RDPBCGR], [MS-RDPEPC], [MS-RDPERP], and [MS-XCA]"
         href: 81cbb832-8bf1-4e68-b46a-7fdb371ddf6b.md
     - name: "June 2019"
