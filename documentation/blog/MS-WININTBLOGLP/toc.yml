@@ -4,6 +4,11 @@
   - name: "2019"
     href: 53b99f95-5895-4a48-95a9-c050acfdf1d5.md
     items:
+    - name: "August 2019"
+      href: 35d3e0d4-caeb-4385-8f63-fdf9b6fc51cc.md
+      items:
+      - name: "08/05 - Errata added for [MS-CSVP], [MS-ERREF], [MS-FSCC], [MS-RRP], [MS-SCMR], and [MS-SMB2]"
+        href: f6bc5f7d-6b3f-441d-9de1-4994329aeff9.md
     - name: "July 2019"
       href: bfd44192-3959-4399-93da-6743118fc460.md
       items:
