@@ -7,6 +7,8 @@
     - name: "August 2019"
       href: 35d3e0d4-caeb-4385-8f63-fdf9b6fc51cc.md
       items:
+      - name: "08/19 - Errata added for [MS-CMRP], [MS-RDPBCGR], [MS-RDPEDISP], [MS-RDPEDUP2], and [MS-SMB2]"
+        href: c0ef7a9c-8b8f-4ffa-881a-cb13a8ed462e.md
       - name: "08/05 - Errata added for [MS-CSVP], [MS-ERREF], [MS-FSCC], [MS-RRP], [MS-SCMR], and [MS-SMB2]"
         href: f6bc5f7d-6b3f-441d-9de1-4994329aeff9.md
     - name: "July 2019"
