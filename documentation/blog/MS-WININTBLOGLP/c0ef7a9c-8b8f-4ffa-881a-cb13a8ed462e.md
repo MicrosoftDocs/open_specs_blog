@@ -17,7 +17,7 @@ structure names.</p>
 Remote Desktop Protocol: Basic Connectivity and Graphics Remoting</a></span> –
 in several sections, modified text about fast and slow paths.</p>
 
-<p><span><a>[MS-RDPEDISP]:
+<p><span><a href="/openspecs/windows_protocols/MS-WINERRATA/2d17ddfe-79e8-4cd9-8b41-6ff5dcc44464">[MS-RDPEDISP]:
 Remote Desktop Protocol: Display Update Virtual Channel Extension</a></span> –
 in Section 1, Introduction, changed the source of the display configuration
 changes from server to client.&#8203;&#8203;</p>
