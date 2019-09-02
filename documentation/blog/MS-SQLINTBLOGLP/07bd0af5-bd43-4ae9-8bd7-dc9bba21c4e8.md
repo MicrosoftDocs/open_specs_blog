@@ -1,14 +1,14 @@
 ---
-title: "[MS-SQLINTBLOGLP]: - Errata added for [MS-SCCSTR]: SqlClient Connection String Structure"
-description: "In [MS-SCCSTR] section 2.2, Keys and Values, the description of the AttachDBFilename key was clarified."
+title: "[MS-SQLINTBLOGLP]: - Errata added for [MS-SCCSTR]"
+description: "[MS-SCCSTR]: SqlClient Connection String Structure – In section 2.2, Keys and Values, clarified the description of the AttachDBFilename key."
 ---
 
-# 06/10 - Errata added for [MS-SCCSTR]: SqlClient Connection String Structure
+# 06/10 - Errata added for [MS-SCCSTR]
 
 <p> </p>
-<p>In [MS-SCCSTR] section <span><a href="/openspecs/sql_server_protocols/MS-SCCSTR/775b2bab-a604-4897-87e6-c36ee23dd3f1">2.2</a></span>,
-Keys and Values, the description of the <b>AttachDBFilename</b> key was
-clarified.</p>
+<p><span><a href="https://sqlprotocoldoc.blob.core.windows.net/productionsqlarchives/MS-SCCSTR/%5bMS-SCCSTR%5d-errata.pdf">[MS-SCCSTR]:
+SqlClient Connection String Structure</a></span> – In section 2.2, Keys and
+Values, clarified the description of the <b>AttachDBFilename</b> key.</p>
 
 
                 
