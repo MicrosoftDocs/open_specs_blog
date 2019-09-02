@@ -4,10 +4,15 @@
   - name: "2019"
     href: 1d0338c5-7d2f-47be-be42-0b20e4189a46.md
     items:
+    - name: "September 2019"
+      href: 341c9946-9a4c-4909-be7a-6b8d7eb0e5df.md
+      items:
+      - name: "09/02: Errata added for [MS-SQLRS]"
+        href: 96362c60-5e71-4ccf-89dd-ee3f5631c5ca.md
     - name: "June 2019"
       href: f40a5f0a-c244-4a5b-b137-1c6833a4c063.md
       items:
-      - name: "06/10 - Errata added for [MS-SCCSTR]: SqlClient Connection String Structure"
+      - name: "06/10 - Errata added for [MS-SCCSTR]"
         href: 07bd0af5-bd43-4ae9-8bd7-dc9bba21c4e8.md
   - name: "2018"
     href: a7511e7f-928d-40fd-adf1-3a4d66e10e09.md
@@ -15,10 +20,10 @@
     - name: "July 2018"
       href: 77f5d094-8d76-414a-bc18-df40f0782fb0.md
       items:
-      - name: "07/02: Errata added for [MS-TDS]: Tabular Data Stream Protocol"
+      - name: "07/02: Errata added for [MS-TDS]"
         href: 8463acc3-f073-40c7-9edc-4c1fb914b5af.md
     - name: "June 2018"
       href: eb65cd05-0584-4315-b960-495b86b143d7.md
       items:
-      - name: "06/18: Errata added for [MS-TDS]: Tabular Data Stream Protocol"
+      - name: "06/18: Errata added for [MS-TDS]"
         href: cde755c3-c73d-4edf-88f0-aae9114e093f.md
