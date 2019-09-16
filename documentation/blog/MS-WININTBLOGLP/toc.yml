@@ -7,6 +7,8 @@
     - name: "September 2019"
       href: 9d07f988-a5a3-4fe7-9a08-3c512a9c2702.md
       items:
+      - name: "09/16 - Errata added for [MS-ADSC], [MS-ADTS], [MS-ECS], [MS-NLMP] and [MS-WSP]"
+        href: 5cfec726-c7bd-4301-9390-247b42e303cd.md
       - name: "09/02 - Errata added for [MS-CIFS], [MS-EVEN], [MS-FSA], [MS-NLMP], [MS-NRPC], [MS-PAC], [MS-RDPERP], [MS-SFU], [MS-SMB2], [MS-TDS], and [MS-XCA]"
         href: 740649c2-4844-4708-a8be-b99349cf7dc2.md
     - name: "August 2019"
