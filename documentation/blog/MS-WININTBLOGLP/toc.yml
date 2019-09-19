@@ -1,12 +1,14 @@
 - name: "Windows Interoperability Developer Blog"
   href: 68ab5fe5-08a1-4426-af41-9a20380624a6.md
   items:
-  - name: "2019"
+  - name: "Errata Blog - 2019"
     href: 53b99f95-5895-4a48-95a9-c050acfdf1d5.md
     items:
     - name: "September 2019"
       href: 9d07f988-a5a3-4fe7-9a08-3c512a9c2702.md
       items:
+      - name: "09/23 - Errata archived for doc refresh"
+        href: 055deb27-ba11-49f9-93dd-8efdb3666090.md
       - name: "09/16 - Errata added for [MS-ADSC], [MS-ADTS], [MS-ECS], [MS-NLMP] and [MS-WSP]"
         href: 5cfec726-c7bd-4301-9390-247b42e303cd.md
       - name: "09/02 - Errata added for [MS-CIFS], [MS-EVEN], [MS-FSA], [MS-NLMP], [MS-NRPC], [MS-PAC], [MS-RDPERP], [MS-SFU], [MS-SMB2], [MS-TDS], and [MS-XCA]"
@@ -59,7 +61,7 @@
         href: 666a7dfe-d4a4-4598-9008-64fd4616a2fd.md
       - name: "02/19 - Errata added for several RDP docs"
         href: 73707139-6e59-4c86-b811-50156dda7b0f.md
-  - name: "2018"
+  - name: "Errata Blog - 2018"
     href: b63a48de-091f-488a-86a6-b9417f239438.md
     items:
     - name: "November 2018"
