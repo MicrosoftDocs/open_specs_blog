@@ -6,6 +6,11 @@
   - name: "Errata Blog - 2019"
     href: 53b99f95-5895-4a48-95a9-c050acfdf1d5.md
     items:
+    - name: "October 2019"
+      href: 78cac927-9d24-479e-bec5-22730ddb8ec2.md
+      items:
+      - name: "10/16 - Errata added for [MS-ADTS], [MS-FSA], [MS-DRSR], [MS-LSAD], [MS-SFU], [MS-RMPR], and [MS-WSP]"
+        href: 734a1e39-4616-4ed7-b2cd-766c25d382c4.md
     - name: "September 2019"
       href: 9d07f988-a5a3-4fe7-9a08-3c512a9c2702.md
       items:
