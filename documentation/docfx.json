@@ -45,7 +45,8 @@
       "_comment_feedback_system": "GitHub",
       "_comment_feedback_github_repo": "MicrosoftDocs/open_specs_blog",
       "protocol_rendering": true,
-      "ms.author": "cindyle"      
+      "ms.author": "cindyle",
+      "author": "openspecs-office"      
       },
     "fileMetadata": {},
     "template": [],
