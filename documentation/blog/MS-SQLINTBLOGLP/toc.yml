@@ -1,9 +1,14 @@
 - name: "SQL Server Interoperability Developer Blog"
   href: 4fac6802-34cf-4f7a-ab52-cb34d48913b3.md
   items:
-  - name: "2019"
+  - name: "Errata Blog - 2019"
     href: 1d0338c5-7d2f-47be-be42-0b20e4189a46.md
     items:
+    - name: "October 2019"
+      href: 65508e04-e6fa-4dcd-8955-0abd99f70de6.md
+      items:
+      - name: "10/16 - Errata archived for SQL Server 2019 release"
+        href: d45bd6dc-d610-4bda-a97e-24ef4b438b6f.md
     - name: "September 2019"
       href: 341c9946-9a4c-4909-be7a-6b8d7eb0e5df.md
       items:
@@ -14,7 +19,7 @@
       items:
       - name: "06/10 - Errata added for [MS-SCCSTR]"
         href: 07bd0af5-bd43-4ae9-8bd7-dc9bba21c4e8.md
-  - name: "2018"
+  - name: "Errata Blog - 2018"
     href: a7511e7f-928d-40fd-adf1-3a4d66e10e09.md
     items:
     - name: "July 2018"
