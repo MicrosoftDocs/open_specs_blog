@@ -3,12 +3,17 @@
   items:
   - name: "Microsoft Message Analyzer Blog"
     href: dd98b93c-0a75-4eb0-b92e-e760c502394f.md
+    items:
+    - name: "Backup and Restore OPN Packages"
+      href: 6344e692-0783-4f0a-bb97-5a07b9167286.md
   - name: "Errata Blog - 2019"
     href: 53b99f95-5895-4a48-95a9-c050acfdf1d5.md
     items:
     - name: "October 2019"
       href: 78cac927-9d24-479e-bec5-22730ddb8ec2.md
       items:
+      - name: "10/28 - Errata added for [MS-IKEE], [MS-KILE], [MS-NRBF], [MS-RDPBCGR], [MS-RDPERP], [MS-RRASM], and [MS-TSGU]"
+        href: f1812ab3-d00a-41e1-9e60-b8a3da0cda9a.md
       - name: "10/16 - Errata added for [MS-ADTS], [MS-FSA], [MS-DRSR], [MS-LSAD], [MS-SFU], [MS-RMPR], and [MS-WSP]"
         href: 734a1e39-4616-4ed7-b2cd-766c25d382c4.md
     - name: "September 2019"
