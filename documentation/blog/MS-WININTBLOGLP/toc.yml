@@ -9,6 +9,11 @@
   - name: "Errata Blog - 2019"
     href: 53b99f95-5895-4a48-95a9-c050acfdf1d5.md
     items:
+    - name: "November 2019"
+      href: f388589c-fcc0-4e88-a109-8b5783f8e431.md
+      items:
+      - name: "11/11 - Errata added for [MS-DTYP], [MS-SMB2], [MS-SMBD], [MS-WSUSAR], and [MS-WUSP]."
+        href: 291aa134-7719-489a-b5c7-7382bab44f89.md
     - name: "October 2019"
       href: 78cac927-9d24-479e-bec5-22730ddb8ec2.md
       items:
