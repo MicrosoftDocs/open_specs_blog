@@ -12,6 +12,8 @@
     - name: "November 2019"
       href: f388589c-fcc0-4e88-a109-8b5783f8e431.md
       items:
+      - name: "11/25 - Errata added for [MS-ADFSWAP], [MS-FSA], [MS-FSCC], [MS-KILE], [MS-SMB2], [MS-WSP], and [MS-WUSP]"
+        href: fec43e4c-01ce-4da2-9b28-8efa907e734e.md
       - name: "11/11 - Errata added for [MS-DTYP], [MS-SMB2], [MS-SMBD], [MS-WSUSAR], and [MS-WUSP]."
         href: 291aa134-7719-489a-b5c7-7382bab44f89.md
     - name: "October 2019"
