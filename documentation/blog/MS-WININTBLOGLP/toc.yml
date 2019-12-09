@@ -9,6 +9,11 @@
   - name: "Errata Blog - 2019"
     href: 53b99f95-5895-4a48-95a9-c050acfdf1d5.md
     items:
+    - name: "December 2019"
+      href: ae5965ad-0b09-4cd3-b547-42eddc9487d9.md
+      items:
+      - name: "12/09 - Errata added for [MC-NBFX], [MS-EMFPLUS], [MS-SFU], [MS-WUSP], and [MS-XCA]"
+        href: 19856d3a-561b-4c48-85bc-198961957d57.md
     - name: "November 2019"
       href: f388589c-fcc0-4e88-a109-8b5783f8e431.md
       items:
