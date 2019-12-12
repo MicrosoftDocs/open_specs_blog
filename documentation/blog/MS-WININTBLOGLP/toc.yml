@@ -12,6 +12,8 @@
     - name: "December 2019"
       href: ae5965ad-0b09-4cd3-b547-42eddc9487d9.md
       items:
+      - name: "12/16 - Errata added for [MS-CRTD], [MS-DHCPE], [MS-NLMP], [MS-SMB2], and [MS-WCCE]"
+        href: bd8bc249-4851-4e41-a28b-df419ba03df1.md
       - name: "12/09 - Errata added for [MC-NBFX], [MS-EMFPLUS], [MS-SFU], [MS-WUSP], and [MS-XCA]"
         href: 19856d3a-561b-4c48-85bc-198961957d57.md
     - name: "November 2019"
