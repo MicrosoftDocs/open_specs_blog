@@ -6,6 +6,14 @@
     items:
     - name: "Backup and Restore OPN Packages"
       href: 6344e692-0783-4f0a-bb97-5a07b9167286.md
+  - name: "Errata Blog - 2020"
+    href: 3b483b8e-b5fd-4025-b9a7-9d5c3fec7d11.md
+    items:
+    - name: "January 2020"
+      href: 4341cbe0-6a36-4637-b91a-56f7f22e0d61.md
+      items:
+      - name: "01/06 - Errata added for [MS-RDPBCGR], [MS-RDPELE], and [MS-SMB2]"
+        href: 7e728352-e81e-49e5-8988-976f3994161c.md
   - name: "Errata Blog - 2019"
     href: 53b99f95-5895-4a48-95a9-c050acfdf1d5.md
     items:
