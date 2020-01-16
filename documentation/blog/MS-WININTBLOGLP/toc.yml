@@ -12,6 +12,8 @@
     - name: "January 2020"
       href: 4341cbe0-6a36-4637-b91a-56f7f22e0d61.md
       items:
+      - name: "01/20 - Errata added for [MS-CIFS], [MS-FSCC], [MS-RDPBCGR], and [MS-SMB2]"
+        href: 41194fd0-933f-48f0-acba-de5eb1a83b84.md
       - name: "01/06 - Errata added for [MS-RDPBCGR], [MS-RDPELE], and [MS-SMB2]"
         href: 7e728352-e81e-49e5-8988-976f3994161c.md
   - name: "Errata Blog - 2019"
