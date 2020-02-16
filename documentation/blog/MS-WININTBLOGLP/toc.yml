@@ -12,6 +12,8 @@
     - name: "February 2020"
       href: 6f752fd6-33a2-48f4-bb24-70e645e1892a.md
       items:
+      - name: "02/17 - Errata added for [MS-RDPBCGR], [MS-SMB2], [MS-TDS], [MS-WUSP], and [MS-XCA]"
+        href: 48347036-650c-4a6f-a093-6475d66a8f18.md
       - name: "02/03 - Errata added for [MS-ADTS] and [MS-SMB2]"
         href: e9287746-bd75-44ba-a3bc-69f98b73c36f.md
     - name: "January 2020"
