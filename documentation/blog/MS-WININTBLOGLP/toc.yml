@@ -3,12 +3,48 @@
   items:
   - name: "Microsoft Message Analyzer Blog"
     href: dd98b93c-0a75-4eb0-b92e-e760c502394f.md
+    items:
+    - name: "Backup and Restore OPN Packages"
+      href: 6344e692-0783-4f0a-bb97-5a07b9167286.md
+  - name: "Errata Blog - 2020"
+    href: 3b483b8e-b5fd-4025-b9a7-9d5c3fec7d11.md
+    items:
+    - name: "February 2020"
+      href: 6f752fd6-33a2-48f4-bb24-70e645e1892a.md
+      items:
+      - name: "02/17 - Errata added for [MS-RDPBCGR], [MS-SMB2], [MS-TDS], [MS-WUSP], and [MS-XCA]"
+        href: 48347036-650c-4a6f-a093-6475d66a8f18.md
+      - name: "02/03 - Errata added for [MS-ADTS] and [MS-SMB2]"
+        href: e9287746-bd75-44ba-a3bc-69f98b73c36f.md
+    - name: "January 2020"
+      href: 4341cbe0-6a36-4637-b91a-56f7f22e0d61.md
+      items:
+      - name: "01/20 - Errata added for [MS-CIFS], [MS-FSCC], [MS-RDPBCGR], and [MS-SMB2]"
+        href: 41194fd0-933f-48f0-acba-de5eb1a83b84.md
+      - name: "01/06 - Errata added for [MS-RDPBCGR], [MS-RDPELE], and [MS-SMB2]"
+        href: 7e728352-e81e-49e5-8988-976f3994161c.md
   - name: "Errata Blog - 2019"
     href: 53b99f95-5895-4a48-95a9-c050acfdf1d5.md
     items:
+    - name: "December 2019"
+      href: ae5965ad-0b09-4cd3-b547-42eddc9487d9.md
+      items:
+      - name: "Errata added for [MS-CRTD], [MS-DHCPE], [MS-FSA], [MS-NLMP], [MS-SMB2], and [MS-WCCE]"
+        href: bd8bc249-4851-4e41-a28b-df419ba03df1.md
+      - name: "12/09 - Errata added for [MC-NBFX], [MS-EMFPLUS], [MS-SFU], [MS-WUSP], and [MS-XCA]"
+        href: 19856d3a-561b-4c48-85bc-198961957d57.md
+    - name: "November 2019"
+      href: f388589c-fcc0-4e88-a109-8b5783f8e431.md
+      items:
+      - name: "11/25 - Errata added for [MS-ADFSWAP], [MS-FSA], [MS-FSCC], [MS-KILE], [MS-SMB2], [MS-WSP], and [MS-WUSP]"
+        href: fec43e4c-01ce-4da2-9b28-8efa907e734e.md
+      - name: "11/11 - Errata added for [MS-DTYP], [MS-SMB2], [MS-SMBD], [MS-WSUSAR], and [MS-WUSP]."
+        href: 291aa134-7719-489a-b5c7-7382bab44f89.md
     - name: "October 2019"
       href: 78cac927-9d24-479e-bec5-22730ddb8ec2.md
       items:
+      - name: "10/28 - Errata added for [MS-IKEE], [MS-KILE], [MS-NRBF], [MS-RDPBCGR], [MS-RDPERP], [MS-RRASM], and [MS-TSGU]"
+        href: f1812ab3-d00a-41e1-9e60-b8a3da0cda9a.md
       - name: "10/16 - Errata added for [MS-ADTS], [MS-FSA], [MS-DRSR], [MS-LSAD], [MS-SFU], [MS-RMPR], and [MS-WSP]"
         href: 734a1e39-4616-4ed7-b2cd-766c25d382c4.md
     - name: "September 2019"
