@@ -9,6 +9,11 @@
   - name: "Errata Blog - 2020"
     href: 3b483b8e-b5fd-4025-b9a7-9d5c3fec7d11.md
     items:
+    - name: "March 2020"
+      href: b0da732b-df69-4fcc-96af-9566842b7e7a.md
+      items:
+      - name: "03/02 - Errata added for [MS-DTYP], [MS-ECS], and [MS-KILE]"
+        href: a79d4711-94f3-4d6a-a7d4-e7745c20a533.md
     - name: "February 2020"
       href: 6f752fd6-33a2-48f4-bb24-70e645e1892a.md
       items:
