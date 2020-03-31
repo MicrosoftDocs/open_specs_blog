@@ -1,6 +1,14 @@
 - name: "SQL Server Interoperability Developer Blog"
   href: 4fac6802-34cf-4f7a-ab52-cb34d48913b3.md
   items:
+  - name: "Errata Blog - 2020"
+    href: b43d30db-4143-4e76-9ef6-d54736572fa5.md
+    items:
+    - name: "March 2020"
+      href: 960dafbf-77be-4783-bd24-35b65513cbe0.md
+      items:
+      - name: "03/30: Errata added for [MS-SSAS-T]"
+        href: 3bee54f8-e71d-4d4a-a6eb-5d97eb55ada6.md
   - name: "Errata Blog - 2019"
     href: 1d0338c5-7d2f-47be-be42-0b20e4189a46.md
     items:
