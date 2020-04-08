@@ -9,6 +9,11 @@
   - name: "Errata Blog - 2020"
     href: 3b483b8e-b5fd-4025-b9a7-9d5c3fec7d11.md
     items:
+    - name: "April 2020"
+      href: 428abda4-fc54-4252-a5d6-f9a6981ffce2.md
+      items:
+      - name: "04/13 - Errata added for [MS-KILE] and [MS-SMB2]"
+        href: b4727227-5774-4271-896c-82004a425886.md
     - name: "March 2020"
       href: b0da732b-df69-4fcc-96af-9566842b7e7a.md
       items:
