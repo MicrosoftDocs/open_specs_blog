@@ -12,6 +12,8 @@
     - name: "April 2020"
       href: 428abda4-fc54-4252-a5d6-f9a6981ffce2.md
       items:
+      - name: "04/27 - Errata added for [MS-ADTS], [MS-BKUP], [MS-FSA], [MS-FSCC], [MS-KILE], [MS-RRP], and [MS-XCA]"
+        href: f245c59f-a8f7-4008-8615-fa594bbf9fed.md
       - name: "04/13 - Errata added for [MS-KILE] and [MS-SMB2]"
         href: b4727227-5774-4271-896c-82004a425886.md
     - name: "March 2020"
