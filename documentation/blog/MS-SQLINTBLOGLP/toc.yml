@@ -7,6 +7,8 @@
     - name: "April 2020"
       href: 042a5f35-8f99-4653-912e-520835adad7b.md
       items:
+      - name: "4/27: Additional Errata added for [MS-DTSX] and [MS-DTSX2]"
+        href: ec2b4bbf-f6fe-48a0-b270-5bf119b1d3ff.md
       - name: "4/13: Errata added for [MS-DTSX] and [MS-DTSX2]"
         href: 4f7d7e62-9c63-424b-a70b-e6401ca09a8f.md
     - name: "March 2020"
