@@ -9,6 +9,11 @@
   - name: "Errata Blog - 2020"
     href: 3b483b8e-b5fd-4025-b9a7-9d5c3fec7d11.md
     items:
+    - name: "May 2020"
+      href: 24f2004a-813d-4398-85ce-25e042b5aca3.md
+      items:
+      - name: "05/11 - Errata added for [MS-ADTS], [MS-KILE], [MS-NRPC], [MS-RDPEGFX], and [MS-SMB2]"
+        href: 4dd38e02-bab8-475d-abb1-7ca67bbaac1a.md
     - name: "April 2020"
       href: 428abda4-fc54-4252-a5d6-f9a6981ffce2.md
       items:
