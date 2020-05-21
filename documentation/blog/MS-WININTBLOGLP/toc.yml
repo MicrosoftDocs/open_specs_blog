@@ -12,6 +12,8 @@
     - name: "May 2020"
       href: 24f2004a-813d-4398-85ce-25e042b5aca3.md
       items:
+      - name: "05/25 - Errata added for [MS-SMB2], [MS-VHDX], and [MS-WSP]"
+        href: 1f17c33c-5abf-464f-80c4-cd97c5434a4a.md
       - name: "05/11 - Errata added for [MS-ADTS], [MS-KILE], [MS-NRPC], [MS-RDPEGFX], and [MS-SMB2]"
         href: 4dd38e02-bab8-475d-abb1-7ca67bbaac1a.md
     - name: "April 2020"
