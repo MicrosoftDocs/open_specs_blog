@@ -9,6 +9,11 @@
   - name: "Errata Blog - 2020"
     href: 3b483b8e-b5fd-4025-b9a7-9d5c3fec7d11.md
     items:
+    - name: "June 2020"
+      href: 53fe2a31-8520-4899-8367-d826da47779a.md
+      items:
+      - name: "06/08 - Errata added for [MS-ADTS], [MS-CMRP], [MS-CSSP], [MS-PAC], [MS-RDPEAR], [MS-SMB2], [MS-WSP], and [MS-XCA]"
+        href: 94692d7c-dc0a-4dc4-8e55-108bbbb1d13e.md
     - name: "May 2020"
       href: 24f2004a-813d-4398-85ce-25e042b5aca3.md
       items:
