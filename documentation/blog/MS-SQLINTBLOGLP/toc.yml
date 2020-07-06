@@ -4,12 +4,17 @@
   - name: "Errata Blog - 2020"
     href: b43d30db-4143-4e76-9ef6-d54736572fa5.md
     items:
+    - name: "July 2020"
+      href: a7666cbd-e9a3-402d-9c8f-42269b56eff1.md
+      items:
+      - name: "07/06 - Errata archived for SQL Server 2019 Cumulative Update 5 release"
+        href: 2237773c-ee7e-4b80-b3da-6b80ea5fbcca.md
     - name: "April 2020"
       href: 042a5f35-8f99-4653-912e-520835adad7b.md
       items:
-      - name: "4/27: Additional Errata added for [MS-DTSX] and [MS-DTSX2]"
+      - name: "04/27: Additional Errata added for [MS-DTSX] and [MS-DTSX2]"
         href: ec2b4bbf-f6fe-48a0-b270-5bf119b1d3ff.md
-      - name: "4/13: Errata added for [MS-DTSX] and [MS-DTSX2]"
+      - name: "04/13: Errata added for [MS-DTSX] and [MS-DTSX2]"
         href: 4f7d7e62-9c63-424b-a70b-e6401ca09a8f.md
     - name: "March 2020"
       href: 960dafbf-77be-4783-bd24-35b65513cbe0.md

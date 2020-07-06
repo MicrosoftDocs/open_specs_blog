@@ -3,7 +3,7 @@ title: "[MS-SQLINTBLOGLP]: Additional Errata added for [MS-DTSX] and [MS-DTSX2]"
 description: "[MS-DTSX]: Data Transformation Services Package XML File Format – In section 2.8.4, Variable Type, the ManagedSerializable enumeration value was"
 ---
 
-# 4/27: Additional Errata added for [MS-DTSX] and [MS-DTSX2]
+# 04/27: Additional Errata added for [MS-DTSX] and [MS-DTSX2]
 
 <p> </p>
 <p><span><a href="https://sqlprotocoldoc.blob.core.windows.net/productionsqlarchives/MS-DTSX/%5bMS-DTSX%5d-errata.pdf">[MS-DTSX]:
