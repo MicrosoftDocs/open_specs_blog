@@ -12,6 +12,8 @@
     - name: "July 2020"
       href: f868554b-326d-4078-9cc8-ed5cc5ca45bf.md
       items:
+      - name: "07/20 - Errata added for [MS-CMRP], [MS-CSRA], MS-DNSP], [MS-KILE], [MS-RDPBCGR], and [MS-RDPEAR]"
+        href: 6f6e92cc-b6c6-42ce-9813-852efa879c20.md
       - name: "07/06 - Errata added for [MS-CSSP], [MS-DNSP], [MS-EMFPLUS], [MS-FSA], [MS-OCSPA], [MS-RDPBCGR], [MS-RDPELE], [MS-RDPERP], [MS-RDPEUDP], [MS-SMB2], [MS-SSTR], and [MS-WSUSAR]"
         href: e2285c7b-99f6-4320-a78a-34fc1ad34e0c.md
     - name: "June 2020"
