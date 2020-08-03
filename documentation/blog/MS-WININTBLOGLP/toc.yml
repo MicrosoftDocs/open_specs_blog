@@ -9,6 +9,11 @@
   - name: "Errata Blog - 2020"
     href: 3b483b8e-b5fd-4025-b9a7-9d5c3fec7d11.md
     items:
+    - name: "August 2020"
+      href: 1dee91ee-8586-4c20-b2fc-835d5f11a642.md
+      items:
+      - name: "08/03 - Errata added for [MS-RDPEAR], [MS-SMB2], and [MS-WCCE]"
+        href: 2dfd6da6-545a-4dbb-babc-64fe9c06fe43.md
     - name: "July 2020"
       href: f868554b-326d-4078-9cc8-ed5cc5ca45bf.md
       items:
