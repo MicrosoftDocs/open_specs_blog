@@ -9,6 +9,11 @@
   - name: "Errata Blog - 2020"
     href: 3b483b8e-b5fd-4025-b9a7-9d5c3fec7d11.md
     items:
+    - name: "December 2020"
+      href: 06d8999c-ec5d-4aea-8e46-63c346ef3635.md
+      items:
+      - name: "Quarterly Update"
+        href: 0778cda7-a610-4cae-92df-281c6cd81e57.md
     - name: "September 2020"
       href: d9a0cb86-07e5-4ece-beb8-ffdb48df5c3b.md
       items:
