@@ -1,6 +1,11 @@
 - name: "SQL Server Interoperability Developer Blog"
   href: 4fac6802-34cf-4f7a-ab52-cb34d48913b3.md
   items:
+  - name: "2021 Document Update and Errata Blog"
+    href: f907472f-a738-4cb9-b353-5f2bb8ca577b.md
+    items:
+    - name: "March Quarterly Update"
+      href: 9509b32d-256b-4771-b802-ac4e9ddaddb0.md
   - name: "Errata Blog - 2020"
     href: b43d30db-4143-4e76-9ef6-d54736572fa5.md
     items:
