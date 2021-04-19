@@ -6,6 +6,14 @@
     items:
     - name: "Backup and Restore OPN Packages"
       href: 6344e692-0783-4f0a-bb97-5a07b9167286.md
+  - name: "Errata Blog - 2021"
+    href: a252f14c-0670-4f62-93bd-6fd5dc9084c1.md
+    items:
+    - name: "April 2021"
+      href: 679d51f9-ae93-46d3-ba9b-a3136f09b2a6.md
+      items:
+      - name: "Quarterly Update"
+        href: 05c2b818-b539-4f86-9a3b-1dc43507ea80.md
   - name: "Errata Blog - 2020"
     href: 3b483b8e-b5fd-4025-b9a7-9d5c3fec7d11.md
     items:
