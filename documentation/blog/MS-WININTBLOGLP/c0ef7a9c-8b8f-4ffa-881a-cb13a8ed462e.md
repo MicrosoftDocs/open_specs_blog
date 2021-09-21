@@ -23,9 +23,9 @@ in Section 1, Introduction, changed the source of the display configuration
 changes from server to client.&#8203;&#8203;</p>
 
 <p><span><a href="/openspecs/windows_protocols/MS-WINERRATA/0ce2d7aa-0921-43e6-938c-b07f1e51cecf">[MS-RDPEUDP2]:
-Remote Desktop Protocol: UDP Transport Extension Version 2</a></span> – in Section
-2.2.1.1, RDP-UDP2 Packet Header, changed the Flags field to 12 bits and updated
-the field values.</p>
+Remote Desktop Protocol: UDP Transport Extension Version 2</a></span> – in
+Section 2.2.1.1, RDP-UDP2 Packet Header, changed the Flags field to 12 bits and
+updated the field values.</p>
 
 <p><span><a href="/openspecs/windows_protocols/MS-WINERRATA/2cdafcfa-ce51-426a-9678-630a505a1a35">[MS-SMB2]:
 Server Message Block (SMB) Protocol Versions 2 and 3</a></span> – in two
