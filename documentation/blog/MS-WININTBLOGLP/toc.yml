@@ -9,10 +9,10 @@
   - name: "Errata Blog - 2022"
     href: b1a2e779-a20c-4845-8408-7211c8007cde.md
     items:
-    - name: "January 2022"
-      href: 534eadc5-d06b-47e3-b6a4-ecf7c5050437.md
     - name: "February 2022"
       href: 71ce8f62-8a99-4606-b5f5-da38c8012d8f.md
+    - name: "January 2022"
+      href: 534eadc5-d06b-47e3-b6a4-ecf7c5050437.md
   - name: "Errata Blog - 2021"
     href: a252f14c-0670-4f62-93bd-6fd5dc9084c1.md
     items:
