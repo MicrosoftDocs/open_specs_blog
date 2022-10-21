@@ -30,7 +30,7 @@ published versions of protocol documents that could impact an implementation.</p
 
 <ul><li><p><span><span> 
 </span></span><span><a href="/openspecs/windows_protocols/MS-VHDX/83e061f8-f6e2-4de1-91bd-5d518a43d477">[MS-DCOM]:
-Distributed Component Object Model (DCOM) Remote Protocol</a></span>:Updated
+Distributed Component Object Model (DCOM) Remote Protocol</a></span>: Updated
 product behavior note 37 in section 2.2.22.2.8.1 to ensure that
 RPC_C_AUTHN_LEVEL_PKT_INTEGRITY authentication level will be the minimum auth
 level following evaluation of the authentication level of DCOM client calls.
@@ -40,8 +40,8 @@ Also specified the operating systems that support this behavior.</p>
 
 <ul><li><p><span><span> 
 </span></span><span><a href="/openspecs/windows_protocols/MS-VHDX/83e061f8-f6e2-4de1-91bd-5d518a43d477">[MS-DCOM]:
-Distributed Component Object Model (DCOM) Remote Protocol</a></span>:Updated to
-indicate that on Windows, the client can raise the authentication level
+Distributed Component Object Model (DCOM) Remote Protocol</a></span>: Updated
+to indicate that on Windows, the client can raise the authentication level
 requested by the application to RPC_C_AUTHN_LEVEL_PKT_INTEGRITY, if it is less
 than that. Also specified the operating systems that support this behavior.</p>
 
@@ -49,7 +49,7 @@ than that. Also specified the operating systems that support this behavior.</p>
 
 <ul><li><p><span><span> 
 </span></span><span><a href="/openspecs/windows_protocols/MS-WINERRATA/a66b5d6f-6330-46ab-9fa9-34700ee29f63">[MS-MDE2]:
-Mobile Device Enrollment Protocol Version 2</a></span>:Updated product notes
+Mobile Device Enrollment Protocol Version 2</a></span>: Updated product notes
 with RequestVersion and EnrollmentVersion version 5.0 support from Windows 11
 (version 2) to Windows 11 (version 1) 2022 10C patch and later.</p>
 
