@@ -4,6 +4,10 @@
   - name: "Errata Blog - 2022"
     href: b1a2e779-a20c-4845-8408-7211c8007cde.md
     items:
+    - name: "November 2022"
+      href: dfaeed50-a779-46d5-822b-6180e9e4cdce.md
+    - name: "October 2022"
+      href: ca4d79c9-24ce-4f2a-a2ae-1b8efbd383b7.md
     - name: "September 2022"
       href: 6192fbc8-d3eb-454e-884a-d26fcfbb5c79.md
     - name: "July 2022"
@@ -172,7 +176,7 @@
         href: ad7103c7-9155-4cd8-a835-f3ecccdd21db.md
       - name: "04/01 - Errata added for MS-NRPC"
         href: 9cc8f4e4-a43f-4950-b8dc-1488d1e9c437.md
-      - name: "04/01 - Tips and Tricks for Using Microsoft Learn"
+      - name: "04/01 - Tips and Tricks for Using docs.microsoft.com (DMC)"
         href: 6183f838-c21e-4c44-a5bb-1a84e1864c2e.md
     - name: "March 2019"
       href: 8f87919b-e389-4179-9a79-29a6dcd8c370.md
