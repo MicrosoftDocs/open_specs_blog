@@ -10,8 +10,8 @@ description: "Changes have been made to the following documents:  [MS-CMRP]: Fai
 
 <p><span><a href="/openspecs/windows_protocols/MS-WINERRATA/9be50d9e-fe1e-489a-b4b4-391ca57e53cb">[MS-CMRP]:
 Failover Cluster: Management API (ClusAPI) Protocol</a></span> – added a new
-section to define the STORAGE_MEDIA_TYPE enumeration and fixed typos in structure
-names.</p>
+section to define the STORAGE_MEDIA_TYPE enumeration and fixed typos in
+structure names.</p>
 
 <p><span><a href="/openspecs/windows_protocols/MS-WINERRATA/a837c4b6-d2c1-4833-9d0a-e83744882959">[MS-RDPBCGR]:
 Remote Desktop Protocol: Basic Connectivity and Graphics Remoting</a></span> –
