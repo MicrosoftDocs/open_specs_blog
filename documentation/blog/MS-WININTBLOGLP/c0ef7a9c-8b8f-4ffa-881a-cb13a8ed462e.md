@@ -28,9 +28,8 @@ Section 2.2.1.1, RDP-UDP2 Packet Header, changed the Flags field to 12 bits and
 updated the field values.</p>
 
 <p><span><a href="/openspecs/windows_protocols/MS-WINERRATA/2cdafcfa-ce51-426a-9678-630a505a1a35">[MS-SMB2]:
-Server Message Block (SMB) Protocol Versions 2 and 3</a></span> – in two
-sections, changed the descriptions of the NetName and Connection.ServerName
-fields.</p>
+Server Message Block (SMB) Protocol Versions 2 and 3</a></span> – in two sections,
+changed the descriptions of the NetName and Connection.ServerName fields.</p>
 
 
                 
