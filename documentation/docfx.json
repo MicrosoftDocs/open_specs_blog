@@ -35,10 +35,10 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
+      "ms.service": "openspecs-office",
       "ROBOTS": "INDEX, FOLLOW",
       "searchScope": ["OpenSpecs"],
       "uhfHeaderId": "MSDocsHeader-OpenSpecs",
-      "ms.prod": "openspecs-office",
       "contributors_to_exclude": ["mrsgit09","skesseks","jmazzotta","andrewdavidoff","Incyuna2z","enoch717","donnyluu","CindySomer","erikadoyle","champagnie","stguty","jasonfis-msft","Hoffman2407","wcblue","AlfredHellstern","FosterMichelle"],
       "ms.topic": "reference",
       "_comment_feedback_system": "GitHub",
