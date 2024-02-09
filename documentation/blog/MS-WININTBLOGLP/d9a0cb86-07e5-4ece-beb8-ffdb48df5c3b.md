@@ -5,4 +5,3 @@ description: ""
 
 # September 2020
 
-<p> </p>

@@ -5,4 +5,3 @@ description: ""
 
 # October 2018
 
-<p> </p>
