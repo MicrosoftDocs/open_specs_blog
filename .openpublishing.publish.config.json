@@ -19,13 +19,11 @@
   ],
   "notification_subscribers": [
     "cindyle@microsoft.com",
-    "altheac@microsoft.com"
+    "v-cassiwang@microsoft.com"
   ],
   "sync_notification_subscribers": [],
   "branches_to_filter": [],
-  "skip_source_output_uploading": false,
   "need_preview_pull_request": false,
-  "contribution_branch_mappings": {},
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
@@ -35,9 +33,9 @@
     }
   ],
   "branch_target_mapping": {},
-  "need_generate_pdf_url_template": false,
   "targets": {},
-  "docs_build_engine": {
-    "name": "docfx_v3"
-  }
+  "docs_build_engine": {},
+  "skip_source_output_uploading": false,
+  "contribution_branch_mappings": {},
+  "need_generate_pdf_url_template": false
 }
