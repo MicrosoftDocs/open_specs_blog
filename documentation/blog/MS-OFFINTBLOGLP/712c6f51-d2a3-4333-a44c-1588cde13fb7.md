@@ -5,4 +5,3 @@ description: ""
 
 # June 2019
 
-<p> </p>
